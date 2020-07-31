@@ -22,3 +22,6 @@ python train.py
 ```
 
 Then do `deactivate` to deactivate the virtual environment.
+
+## References
+* https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py

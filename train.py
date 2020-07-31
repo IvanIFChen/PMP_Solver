@@ -48,10 +48,11 @@ for doc_id in range(len(train_corpus)):
 
 counter = collections.Counter(ranks)
 print(counter)
+print(f'Model Consistency: {counter[0]/sum(counter.values())}')
 
-print('Document ({}): «{}»\n'.format(doc_id, ' '.join(train_corpus[doc_id].words)))
-for label, index in [('MOST', 0), ('SECOND-MOST', 1), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
-    print(u'%s %s: «%s»\n' % (label, sims[index], ' '.join(train_corpus[sims[index][0]].words)))
+# print('Document ({}): «{}»\n'.format(doc_id, ' '.join(train_corpus[doc_id].words)))
+# for label, index in [('MOST', 0), ('SECOND-MOST', 1), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
+#     print(u'%s %s: «%s»\n' % (label, sims[index], ' '.join(train_corpus[sims[index][0]].words)))
 
 # Now, with a sample text
 with open('sample_paragraph.txt', 'r') as f:
