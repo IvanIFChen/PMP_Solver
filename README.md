@@ -6,7 +6,7 @@ A "Problem Solver" tool using Gensim's Doc2Vec implementation to answer general 
 Parses all questions from the PMP exam prep pdf file.
 
 ### /train.py
-Trains the model from pmp_questions.txt and then find the most similar one from sample_paragraph.txt.
+Trains the model from `pmp_questions.txt` and then find the most similar one from `sample_paragraph.txt`.
 
 ## How to run
 ### Setup virtual environment
