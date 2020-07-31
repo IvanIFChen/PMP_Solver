@@ -7,7 +7,7 @@ Introduces Gensim's Doc2Vec model and demonstrates its use on the Lee Corpus.
 """
 
 import logging
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
+# logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 
 ###############################################################################
 # Doc2Vec is a :ref:`core_concepts_model` that represents each
@@ -168,12 +168,12 @@ test_corpus = list(read_corpus(lee_test_file, tokens_only=True))
 ###############################################################################
 # Let's take a look at the training corpus
 #
-print(train_corpus[:2])
+# print(train_corpus[:2])
 
 ###############################################################################
 # And the testing corpus looks like this:
 #
-print(test_corpus[:2])
+# print(test_corpus[:2])
 
 ###############################################################################
 # Notice that the testing corpus is just a list of lists and does not contain
@@ -224,7 +224,7 @@ model.train(train_corpus, total_examples=model.corpus_count, epochs=model.epochs
 # vector can then be compared with other vectors via cosine similarity.
 #
 vector = model.infer_vector(['only', 'you', 'can', 'prevent', 'forest', 'fires'])
-print(vector)
+# print(vector)
 
 ###############################################################################
 # Note that ``infer_vector()`` does *not* take a string, but rather a list of

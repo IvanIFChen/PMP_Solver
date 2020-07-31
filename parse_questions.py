@@ -18,12 +18,12 @@ Then it writes all questions to an "output.txt" file.
 
 content = ''
 
-with open('input.txt', 'r') as f:
+with open('pmp_original.txt', 'r') as f:
     content = f.read()
 
 matches = re.findall(r'Practice Questions([\S\s]*?)Answer Sheet', content)
 
-with open('output.txt', 'w+') as f:
+with open('pmp_questions.txt', 'w+') as f:
     for question in matches:
         q_texts = re.findall(r'\d\.([\S\s]*?)a\.', question)
         for text in q_texts:
@@ -31,5 +31,5 @@ with open('output.txt', 'w+') as f:
             text = re.sub(r'\s+', ' ', text)
             # foo- bar" -> "foobar"
             text = re.sub(r'- ', '', text)
-            print(text)
+            text = text.strip()
             f.write(text + '\n')

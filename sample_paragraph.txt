@@ -1,0 +1,1 @@
+When you review cost performance data on your project, different responses will be required depending on the degree of variance or control thresholds from the baseline.
