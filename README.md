@@ -23,6 +23,21 @@ python train.py
 
 Then do `deactivate` to deactivate the virtual environment.
 
+### Sample Output
+```
+Counter({0: 397, 3: 2, 1: 1})
+Model Consistency: 0.9925
+Sample Text: «When you review cost performance data on your project, different responses will be required depending on the degree of variance or control thresholds from the baseline.»
+
+MOST (131, 0.8644323348999023): «when you review cost performance data on your project different responses will be required depending on the degree of variance or control thresholds from the baseline for example variance of percent might not require immediate action whereas variance of percent will require investigation description of how you plan to manage cost variances should be included in theâ»
+
+SECOND (101, 0.8074396848678589): «schedule performance index of less than indicates that theâ»
+
+MEDIAN (169, 0.3390151858329773): «your project scheduler has just started working with your project and has produced defective reports for the past two accounting cycles if this continues these defective reports could provide the potential for customer dissatisfaction and lost productivity that is due to rework you discovered that the project scheduler needs additional training on using the scheduling tool that is used on your project the cost of training falls under which one of the following categories»
+
+LEAST (8, -0.2862987220287323): «interpersonal and team skills are used throughout project management your company is embarking on project to completely eliminate defects in its products you are the project manager for this project and you are developing your project charter to assist you which of the following interpersonal and team skills do you plan to useâ»
+```
+
 ## Open Issues
 * Still need to figure out the best parameters (size, epoch... etc) for the model.
   - While this is similar to the example code, some of the documents are much smaller, need to do some more research.
