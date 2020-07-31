@@ -22,3 +22,8 @@ python train.py
 ```
 
 Then do `deactivate` to deactivate the virtual environment.
+
+## Open Issues
+* Still need to figure out the best parameters (size, epoch... etc) for the model.
+  - While this is similar to the example code, some of the documents are much smaller, need to do some more research.
+* Datasize is too small. Most sources are doing 10s, 100s, or even millions of dataset for training. What I have is definitely not enough.
