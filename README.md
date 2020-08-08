@@ -41,7 +41,7 @@ LEAST (8, -0.2862987220287323): «interpersonal and team skills are used through
 ## Open Issues
 * Still need to figure out the best parameters (size, epoch... etc) for the model.
   - While this is similar to the example code, some of the documents are much smaller, need to do some more research.
-* Datasize is too small. Most sources are doing 10s, 100s, or even millions of dataset for training. What I have is definitely not enough.
+* ~Datasize is too small. Most sources are doing 10s, 100s, or even millions of dataset for training. What I have is definitely not enough.~ Now around 3k with some duplicates
 * Some questions doesn't fit to our application:
   - some too short, we want a scenario
   - some have diagrams, info already lost during pdf to txt conversion, so disregard those too (maybe possible through regex)
