@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in $(seq 1 1 6 $END); do 
+	echo "$i.pdf -> $i.txt"
+	# this requires "poppler", on mac do `brew install poppler`
+	pdftotext -nopgbrk -layout -enc ASCII7 -q $i.pdf $i.txt
+done
