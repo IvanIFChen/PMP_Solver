@@ -1,35 +1,91 @@
 import re
 
 '''
-This little script will parse out all "Practice Questions" from the 
-input text (which is just the text from the pdf).
+This little script will parse out all "Practice Questions" from the input text 
+(which is just the text from the pdfs). Then it writes all questions to an 
+output file.
 
-The process has two steps:
-1.  Capture all text between "Practice Questions" and "Answer Sheet",
-    this should contain all the "questions" that we want.
-2.  For each of the captures from previous step, we look for question
-    index ("1.", "2.", "3."... etc) then capture the text of the 
-    questions.
-
-Then it writes all questions to an "output.txt" file.
-
+`doc_regexs` is a convenient data structure for specifying regex(es) for each 
+document.
+    "target" - the document name
+    "regexs" - a list of list of regex pattern, each list of regex pattern
+            is a multi-level regex match.
+            First level of regex match is searched on the entire document.
+            Second (and on) level of regex match is search from each of the
+            previous matches
+            e.g. document: "Apple, Banana, Carrot, Dot"
+                            and we have [r'[ABC](...)', r'((.)\2)']
+                            -> ["ppl", "ana", "arr"]
+                            -> ["pp",  "rr"]
+                            sanatize results and write to output document.
 '''
 
+doc_regexs = [
+    {
+        'target': 1,
+        'regexs': [
+            # "PMP Lite Mock Exam" and "Knowledge Area Quiz"
+            # (1044 questions) TODO: didn't confirm
+            [r'Test Questions\n([\S\s]*?)Answer Key and Explanations', r'\d\. ([\S\s]*?)A\.']
+        ]
+    },
+    {
+        'target': 2,
+        'regexs': [
+            # "Practice Questions" (400 questions)
+            [r'Practice Questions\n([\S\s]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.'],
+            # "Practice Test" at the end (200 questions)
+            [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
+        ]
+    },
+    {
+        'target': 4,
+        'regexs': [
+            # "Practice Questions" (400 questions)
+            [r'Practice Questions\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.'],
+            # "Practice Test" at the end (200 questions)
+            [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
+        ]
+    },
+    {
+        'target': 5,
+        'regexs': [
+            # "Practice Questions" (400 questions)
+            [r'Practice Questions\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.'],
+            # "Practice Test" at the end (200 questions)
+            [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
+        ]
+    },
+    {
+        'target': 6,
+        'regexs': [
+            # "Review Questions" at the end of each chapter
+            # (~187 questions) TODO: didn't confirm
+            [r'Review Questions\n([\s\S]*?)(?:CHAPTER|APPENDIX)', r'\d\. ([\S\s]*?)A\.']
+        ]
+    }
+]
 
-content = ''
-
-with open('pmp_original.txt', 'r') as f:
-    content = f.read()
-
-matches = re.findall(r'Practice Questions([\S\s]*?)Answer Sheet', content)
-
-with open('pmp_questions.txt', 'w+') as f:
-    for question in matches:
-        q_texts = re.findall(r'\d\.([\S\s]*?)a\.', question)
-        for text in q_texts:
-            # remove repeating whitespaces
-            text = re.sub(r'\s+', ' ', text)
-            # foo- bar" -> "foobar"
-            text = re.sub(r'- ', '', text)
-            text = text.strip()
-            f.write(text + '\n')
+with open('pmp_questions.txt', 'w+') as out_file:
+    for doc in doc_regexs:
+        in_file_name = f'data/{doc["target"]}.txt'
+        print('working on', in_file_name)
+        with open(in_file_name, 'r') as in_file:
+            content = in_file.read()
+        for rs in doc['regexs']:
+            if not rs:
+                raise Exception('Require at least a regex per doc range')
+            # the first level of regex match is applied to the entire document
+            matches = re.findall(rs.pop(0), content)
+            # rest are matches for all previous matches
+            for r in rs:
+                # perform the operation and flattens the list
+                matches = [new_matches for match in matches for new_matches in re.findall(r, match)]
+            # sanatization
+            for match in matches:
+                # remove repeating whitespaces
+                match = re.sub(r'\s+', ' ', match)
+                # foo- bar" -> "foobar"
+                match = re.sub(r'- ', '', match)
+                match = match.strip()
+                out_file.write(match + '\n')
