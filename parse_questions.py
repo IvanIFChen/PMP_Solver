@@ -38,15 +38,15 @@ doc_regexs = [
             [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
         ]
     },
-    {
-        'target': 4,
-        'regexs': [
-            # "Practice Questions" (400 questions)
-            [r'Practice Questions\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.'],
-            # "Practice Test" at the end (200 questions)
-            [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
-        ]
-    },
+    # {
+    #     'target': 4,
+    #     'regexs': [
+    #         # "Practice Questions" (400 questions)
+    #         [r'Practice Questions\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.'],
+    #         # "Practice Test" at the end (200 questions)
+    #         [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
+    #     ]
+    # },
     {
         'target': 5,
         'regexs': [
@@ -67,6 +67,7 @@ doc_regexs = [
 ]
 
 with open('pmp_questions.txt', 'w+') as out_file:
+    seen = set()
     for doc in doc_regexs:
         in_file_name = f'data/{doc["target"]}.txt'
         print('working on', in_file_name)
@@ -88,4 +89,7 @@ with open('pmp_questions.txt', 'w+') as out_file:
                 # foo- bar" -> "foobar"
                 match = re.sub(r'- ', '', match)
                 match = match.strip()
-                out_file.write(match + '\n')
+                if match not in seen:
+                    out_file.write(match + '\n')
+                    # remove duplicates
+                    seen.add(match)

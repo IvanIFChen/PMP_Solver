@@ -23,7 +23,7 @@ train_corpus = list(read_corpus(train_file))
 
 # Initialize a model
 # model = gensim.models.doc2vec.Doc2Vec(vector_size=50, min_count=2, epochs=40)
-model = gensim.models.doc2vec.Doc2Vec(vector_size=50, min_count=2, epochs=80)
+model = gensim.models.doc2vec.Doc2Vec(vector_size=30, min_count=2, epochs=80)
 
 # Build a vocabulary
 model.build_vocab(train_corpus)
@@ -56,5 +56,5 @@ inferred_vector = model.infer_vector(test_doc)
 sims = model.docvecs.most_similar([inferred_vector], topn=len(model.docvecs))
 
 print('Sample Text: «{}»\n'.format(sample_text))
-for label, index in [('MOST', 0), ('SECOND', 1), ('THIRD', 2), ('FORTH', 3), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
+for label, index in [('MOST', 0), ('SECOND', 1), ('THIRD', 2), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
     print(u'%s %s: «%s»\n' % (label, sims[index], ' '.join(train_corpus[sims[index][0]].words)))
