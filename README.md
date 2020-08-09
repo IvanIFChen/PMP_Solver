@@ -45,8 +45,9 @@ LEAST (8, -0.2862987220287323): «interpersonal and team skills are used through
 * Some questions doesn't fit to our application:
   - some too short, we want a scenario
   - some have diagrams, info already lost during pdf to txt conversion, so disregard those too (maybe possible through regex)
-* Source PDFs have duplicate questions, causing the model consistency to be very low, if we see carefully there are a bunch of 2, 3 ranks, they are likely caused by duplicates. May need to find a way to remove them, maybe do a diff? Say if difference in chars is < 5 then we assume they are a duplicate.
+* ~Source PDFs have duplicate questions, causing the model consistency to be very low, if we see carefully there are a bunch of 2, 3 ranks, they are likely caused by duplicates. May need to find a way to remove them, maybe do a diff? Say if difference in chars is < 5 then we assume they are a duplicate.~ Created a way to remove *identical* sentences.
 * Run time on my 2016 MBP is around 1:30, need to consider [saving](https://tedboy.github.io/nlps/generated/generated/gensim.models.Doc2Vec.save.html) the model when we have decent result.
+* Issue parsing 4.pdf, parsing function (pdftotext) seems to have trouble parsing things correctly for some texts. It's adding/removing spaces at sentences.
 
 ## References
 * https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py
