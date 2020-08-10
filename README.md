@@ -15,13 +15,14 @@ virtualenv -p python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
 ```
-### Running the model
-Edit `sample_paragraph.txt` to desired sample text, then
-```
-python train.py
-```
+### Training the model 
+Simply run `python train.py` to train the model, it should display a sanity check value to show the consistency of the model. Saved to file system as `saved_model`.
 
-Then do `deactivate` to deactivate the virtual environment.
+### Querying the model
+Running `python query.py` should allow you to query the model. By default, it queries the `sample_paragraph.txt` file as the input question, you can also pass it in as an input param.
+
+### When done
+Do `deactivate` to deactivate the virtual environment.
 
 ### Sample Output
 ```
@@ -44,7 +45,6 @@ LEAST (8, -0.2862987220287323): «interpersonal and team skills are used through
 * Some questions doesn't fit to our application:
   - some too short, we want a scenario
   - some have diagrams, info already lost during pdf to txt conversion, so disregard those too (maybe possible through regex)
-* Run time on my 2016 MBP is around 1:30, need to consider [saving](https://tedboy.github.io/nlps/generated/generated/gensim.models.Doc2Vec.save.html) the model when we have decent result.
 * Issue parsing 4.pdf, parsing function (pdftotext) seems to have trouble parsing things correctly for some texts. It's adding/removing spaces at sentences.
 
 ## References

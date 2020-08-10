@@ -46,15 +46,5 @@ counter = collections.Counter(ranks)
 print(counter)
 print(f'Model Consistency: {counter[0]/sum(counter.values())}')
 
-# Now, with a sample text
-with open('sample_paragraph.txt', 'r') as f:
-    sample_text = f.read()
-
-test_doc = gensim.utils.simple_preprocess(sample_text)
-
-inferred_vector = model.infer_vector(test_doc)
-sims = model.docvecs.most_similar([inferred_vector], topn=len(model.docvecs))
-
-print('Sample Text: «{}»\n'.format(sample_text))
-for label, index in [('MOST', 0), ('SECOND', 1), ('THIRD', 2), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
-    print(u'%s %s: «%s»\n' % (label, sims[index], ' '.join(train_corpus[sims[index][0]].words)))
+# save the trained model
+model.save('saved_model')
