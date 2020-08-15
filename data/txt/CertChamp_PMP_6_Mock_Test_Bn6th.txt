@@ -1,0 +1,4984 @@
+Final Mock Test.
+
+Resources: Based on PMBOK 6th Edition
+
+
+Info:
+
+        Maintainer: CertChamp
+        Home page: http://www.CertChamp.com
+        Version: 2
+
+Questions
+Question - 1
+
+Joel is managing a project.The project is about three fourths done when the site engineer
+reports that due to inherent complexities in a certain task the deliverables would get
+delayed.This would involve additional analysis and then implementation.He requests that this
+new work that was not envisioned earlier be added to the scope and also the time required be
+added to the schedule.You and the site engineer have analyzed the impact of this change to
+cost, and have written up a change request and requested approval from change control
+board.Just today you have received approval from the change control board - what should be
+the imemdiate course of action ?
+
+A. Start work immediately
+
+B. Ascertain the impact of this change to scope , schedule and cost before making any
+change.
+
+C. Manage Quality
+
+D. Make sure that the scope baseline and schedule baseline are updated to reflect the
+approved change before implementing the change.
+
+
+D is the correct answer.
+
+As the change has been approved you should always update the baseline ( in this case the
+scope and schedule baseline) before implementing the change.This will ensure that you track
+performance against the new scope and schedule and not the old benchmarks.
+
+
+
+
+Question - 2
+
+You are in charge of managing a software development project which is related to
+simulations for driving racing cars.In one of your team meetings - it has been reported that a
+lot of issues have been reported in the air tunnel modelling module.On deeper analysis - it is
+found that many of the issues could have been prevented had a simple code review checklist
+been used.You prepare a code review checklist and ensure the code is reviewed as per the
+checklist.This is a good example of :
+
+A. Corrective Action
+
+B. Preventive Action
+
+C. Defect Repair
+
+D. Quality Control
+
+
+A is the correct answer.
+
+This question is meant to test your understanding of the difference between what corrective
+action and preventive action is.Defect repair might sound tempting - but it is only applicable
+for the issues found for the current delivery.This is also not about Quality Control - so that
+leaves us with only two options - Corrective or Preventive actions.Corrective actions are
+always preceded by nonconformity while preventive actions are never preceded by
+nonconformity.In this case nonconformity in the form of a lot of issues during Quality
+Assurance were reported.The root cause was identified to be the need of a standard checklist
+which was then used.Preventive action is always taken proactively - in the question stated
+there is no demonstration of any proactive steps taken - hence this is not an example of
+Preventive action.The correct answer is option A - Corrective action
+
+
+
+
+Question - 3
+
+Which of the following statements are not true regarding Network Diagrams?:
+
+A. Network Diagrams determine risks and causes of issues as they occur.
+
+B. Network diagrams are used to show interdependecnies of all activities.
+
+C. Network diagrams depict the workflow so everyone knows the sequence in which
+activities need to be performed
+
+D. They help plan , organize and control the project and can help track schedule progress
+
+
+A is the correct answer.
+
+The correct answer is A - All the other statements are valid regarding Network Diagrams .
+
+
+
+
+Question - 4
+Which of the following is part of the Manage Quality process?
+
+A. Benchmarking
+
+B. Cost of Quality
+
+C. Design of experiments
+
+D. Quality audits
+
+
+D is the correct answer.
+
+Quality audits are part of the Manage Quality process.
+
+
+
+
+Question - 5
+
+You are the project manager for a Project. You are updating the WBS during Define
+Activities, which is often called ________?
+
+A. Refinements
+
+B. Updates
+
+C. Activities
+
+D. Supporting detail
+
+
+A is the correct answer.
+
+A is the correct answer. updating the WBS during Define Activities, is often called
+Refinements. It occurs with riskier projects.
+
+
+
+
+Question - 6
+
+The Project Quality Management process must __________.
+
+A. Address the quality of the management and product
+
+B. Improve the project management and the quality of the product
+
+C. Ensure that the project satisfies customer requirements
+D. All of the above
+
+
+D is the correct answer.
+
+Project Quality Management : Addresses both the management of the project and of the
+product of the project, Improves project management as well as the quality of the product,
+Delivery of both high quality and high grade of product, Quality is planned in, not inspected
+in, EnsureS that the project will satisfy customer requirements.
+
+
+
+
+Question - 7
+
+You are a project manager of a company and your project is currently in execution phase.
+The customer has requested you for additional work. This work will affect the budget, but not
+the schedule of the project. What should you do next?
+
+A. Add the additional requirements to the project plan.
+
+B. Ignore the request.
+
+C. Explain the change procedure and ask to submit a request for change.
+
+D. Discuss with the project team about the change.
+
+
+C is the correct answer.
+
+Explain the change procedure and ask to submit a request for change is the best choice.
+
+
+
+
+Question - 8
+
+You are the project manager and have decided to outsource a part of the project to a vendor.
+You have offered a bonus to the vendor if the work is completed in two months. This is an
+example of _____________.
+
+A. project incentive
+
+B. project goal
+
+C. fixed price contract
+
+D. None
+A is the correct answer.
+
+This is an example of project incentive.
+
+
+
+
+Question - 9
+
+You have replaced an earlier project manager in a project .The earlier project manager has
+left the prganization and you are now responsible for the project.On reviewing the project
+management plan you are disturbed because a number of procurement contracts have been
+signed and they all turn out to be Cost plus fixed fee types of contracts - why are you worried
+?
+
+A. All the risk is now with the seller
+
+B. Contracts should always be T and M
+
+C. Seller has no motivation to control cost and infact cost could spiral
+
+D. Contracts should always be Fixed Price
+
+
+C is the correct answer.
+
+As a project manager - you indeed have a reason to be worried if your project has already
+signed off on Cost Plus Fee type of contracts.This is because in such contracts - you the buyer
+needs to pay the seller for all the costs and in addition an agreed percentage of the cost.As a
+result there is no motivation on the seller to control the costs - infact it is in the interest of the
+seller to increase the costs.It is not necessary that all projects should always be T and M or
+Fixed Price.Option A is clearly wrong since all the risks are infact with the buyer not the
+seller!The correct answer is Option C
+
+
+
+
+Question - 10
+
+Your team is in its second month of development.You are managing a software development
+project for a banking product.In one of the team meetings a debate arises if defects found
+during Quality control need to undergo change control.Some team members are convinced
+that all defects should undergo change control while the other half is convinced that defects
+do not need to undergo change control.Which of the following statements are untrue ?
+
+A. Defects to deliverables need to undergo change control
+
+B. Defects to deliverables need not undergo change control
+C. Corrective actions need to undergo change control
+
+D. Preventive actions need to undergo change control
+
+
+B is the correct answer.
+
+Defects to deliverables , corrective actions and preventive actions - all of these need to
+undergo change control.So all the above statements are true except option B
+
+
+
+
+Question - 11
+
+You are responsible for managing a project that deals with laying out a freeway connecting
+two major port cities.Progress on the project has been smooth and you and your team are very
+confident on completing the project well within the stipulated timelines.On reviewing you see
+that the project has also run below the budget resulting in savings.You decide to add an extra
+feature of reflector strips on the road every mile.You do a quick calculation and are satisfied
+that neither budget nor schedule will slip.You feel that by adding these extra features you
+could also bag some future projects as well.This is an example of :
+
+A. Scope Creep
+
+B. Gold Plating
+
+C. Integrated Change Control
+
+D. Fast Tracking
+
+
+B is the correct answer.
+
+This is an example of Gold Plating.Integrated change control deals with formally approving
+or rejecting changes before they are implemented so it is not the correct answer.Fast tracking
+is a schedule compression technique - so it too is not the correct answer.While Scope Creep is
+related to change in scope it is related to uncontrolled changes in product or projects scope
+and is often due to client interference.Gold plating is done intentionally or knowingly for
+some strategic purpose.Here the manager believes that by adding the extra features future
+projects could be bagged.
+
+
+
+
+Question - 12
+
+You are in charge of a project that deals with laying out a lavish 18 hole golf course.The
+project work is in progress.You also have a number of contractors working on the
+project.Being an experienced manager you know that communication is key to success of the
+project.You have identified 10 stakeholders with whom you need to communicate.Due to
+some internal and external organizational changes at the client end three new stakeholders
+have been added with whom you need to communicate with.You also had to reduce one of
+the contractors with whom you were communicating.How many communication channels do
+you have now?
+
+A. 45
+
+B. 78
+
+C. 91
+
+D. 66
+
+
+D is the correct answer.
+
+Originally you had 10 stakeholders to communciate with - so number of communication
+channels were 10 * (10-1) /2 = 45.However the question states that 3 new stakeholders got
+added while 1 stakeholder got reduced.So total number of stakeholders = 10 + 3 -1 = 12 So
+the total number of communication channels are (12 * ( 12-1 )) /2 = 66 So the correct answer
+is option D
+
+
+
+
+Question - 13
+
+You are in charge of a project and to ensure things go well - you have had monthly meetings
+with the stakeholders.The project is running on schedule and budget.You are in your fourth
+month of execution - but the stakeholder indicates dissatisfaction with the deliverables.To
+make changes in the deliverables would mean a delay in the schedule.What would have been
+the most important process that could have prevented this situation?
+
+A. Scope Planning
+
+B. Scope Control
+
+C. Schedule Control
+
+D. Risk Monitoring and Control
+
+
+A is the correct answer.
+
+The most important process that could have prevented this situation would have been - Scope
+Planning.Project deliverables are defined during scope planning so proper implementation of
+this process could have prevented this situation.
+Question - 14
+
+The project that you are in charge has been successfully completed.The last of the
+deliverables have been formally accepted by the client.You had several contractors with
+whom contracts were prepared.With the project done you decide to communicate the
+completion details and closure of contracts.Which is the best form of communication?
+
+A. Formal written
+
+B. Formal verbal
+
+C. Informal verbal
+
+D. Informal written
+
+
+A is the correct answer.
+
+As this is related to a contract it must be a formal written form of communication.Any other
+form of communication related to contracts is not acceptable.
+
+
+
+
+Question - 15
+
+Your company has bagged a number of government contracts dealing with setting up
+infrastructure.This includes setting up roads and bridges.This is a very big and prestigious
+project so your company would like to ensure everything is planned well in advance.You are
+the project manager of this project.Considering its importance - you and your team come up
+with a list of risks.One of the subject matter experts indicates that during the months of July
+and August the construction work of the bridge across the river would need to stop on
+account of past history of flooding of the river.You agree with the expert and plan the
+schedule accordingly.What strategy did you just apply ?
+
+A. Accept
+
+B. Exploit
+
+C. Mitigate
+
+D. Transfer
+
+
+A is the correct answer.
+This is an example of Risk acceptance strategy as there is nothing you can do about situations
+not in our control.Exploit is meant for positive situations while risk mitigation is where you
+have a strategy to either reduce the risk impact or probability.Neither is transfer correct as the
+question does not state that someone else will be responsible for handling the risk.
+
+
+
+
+Question - 16
+
+You are in the process of defining activities and have broken down the WBS into individual
+activities.You now decide to uniquely tag each activity with a unique code.So here what you
+have done is defined an ___ for each Activity
+
+A. Schedule Network Diagram
+
+B. Activity List
+
+C. Milestone List
+
+D. Activity Identifier
+
+
+D is the correct answer.
+
+The correct option is D - Activity Identifier.The question states that we have decided to
+uniquely tag each identified activity - which is nothing but Activity Identifier.This is done
+during creation of the Activity List.
+
+
+
+
+Question - 17
+
+You are managing a project that has teams located in different parts of the world.While the
+advantage of colocation is beneficial - the team structure or locations cannot be
+changed.Being an experienced manager that you are - you realize that without a proper
+communication channel can quickly lead to chaos.What would your choice of communication
+be?
+
+A. Formal and Verbal
+
+B. Formal and Written
+
+C. Informal and written
+
+D. Informal and Verbal
+
+
+B is the correct answer.
+Considering cross located teams and difference in cultures involved the best choice of
+communication in this case would be formal and written.
+
+
+
+
+Question - 18
+
+Rather than use Triangular Distribution while doing Three Point Estimation you choose to
+use Beta Distribution.Based on your analysis and understanding you are confident that the
+project would be completed with a total cost of 108,000 $.You also estimate that a best case
+estimate would be 90000 $ while a worst case scenario would result in the costs incurred to
+shoot up to 138000 USD. What would the Three point Cost estimate be using Beta
+Distribution ?
+
+A. 112000 $
+
+B. 110000 $
+
+C. 101000 $
+
+D. None of the above
+
+
+B is the correct answer.
+
+The correct answer is B.The question states we should use Three point estimate using Beta
+distribution. The formula for this estimation technique is 4a + b + c / 6 where a = Most Likely
+estimate , b = Estimate based on Best case scenario and c = Estimate based on Worst case
+scenario. So the Three point estimate using Beta distribution is (4 *108000) + 90000 +
+138000 / 6 = 660000/6 = 110000 $
+
+
+
+
+Question - 19
+
+You are developing strategies to effectively engage stakeholders throughout the project life
+cycle. What is process you are working on ?
+
+A. Plan Stakeholder Engagement
+
+B. Identify Stakeholders
+
+C. Manage Stakeholder Engagement
+
+D. Monitor Stakeholder Engagement
+
+
+A is the correct answer.
+Plan Stakeholder Engagement is the process to develope strategy to effectively engage
+stakeholders throughout the project life cycle.
+
+
+
+
+Question - 20
+
+You head the engineering department in your company.Lately you have observed that certain
+deliveries are mising the schedule.On closer scrutiny you observe this to be occurring with a
+specific team member.You decide to discuss it out with the team member.Initially the team
+member is reluctant to discuss but finally opens up and indicates that the cause of the delays
+is often different instructions coming in from you as well as the project manager.She
+indicates that at such times she is confused related to whose instructions to follow - thereby
+causing delays - what kind of an Organizational structure is this most likely to be ?
+
+A. Functional
+
+B. Projectized
+
+C. Weak Matrix
+
+D. Balanced Matrix
+
+
+D is the correct answer.
+
+Here the team member is being expected to follow instructions from both the Project
+Manager and the Functional Manager.This is never the case in a Functional or Projectized
+organization where the lines of authority are clearly defined.A weak matrix organization is
+more like a Functional Organization where the project manager has almost no authority.The
+scenario explained above is typical of a balanced matrix organization where power resides
+equally distributed between the functional and project manager. Here the correct answer is
+Option D - Balanced Matrix
+
+
+
+
+Question - 21
+
+The release criteria includes:
+
+A. the timing of the release of team members
+
+B. the method in which you will release them
+
+C. Both of the above are true
+
+D. None
+C is the correct answer.
+
+C is the correct answer. The release criteria include both the timing of the release of team
+members and the method in which you will release them.
+
+
+
+
+Question - 22
+
+As a project manager you have successfully delivered all project deliverables within
+stipulated timelines - your senior management wants you to calculate the Cost of Quality - as
+a project Manager what costs would you NOT consider while making this calculation ?
+
+A. Cost of Hiring.
+
+B. Prevention costs.
+
+C. Appraisal costs.
+
+D. External and InternalFailure costs.
+
+
+A is the correct answer.
+
+All of the above are correct - except option A - since Hiring Costs have nothing to do with
+Cost of Quality.prevention and Appraisal Costs are the expenditures during the project to
+AVOID failures while Internal and External Failure Costs are those incurred during and after
+the project BECAUSE of failures.
+
+
+
+
+Question - 23
+
+You and and your team have just created a schedule network diagram.You have come up
+with the estimates and have defined the durations and subsequently have identified the
+Critical Path.You now decide to do a 'Backward Pass' through the Schedule Network
+Diagram - what would you be calculating ?
+
+A. The Early Start and Early Finish for each activity
+
+B. The Late Start and Late Finish for each activity
+
+C. The duration of the other paths
+
+D. The duration of the critical path
+B is the correct answer.
+
+The correct answer is - B.Option C and D are incorrect as the Backward Pass is not used to
+calculate the duration.Infact based on duration the critical path is calculated.Option A talks
+about Early Start and Early Finish - which are calculated using 'Forward Pass'.Using
+'Backward Pass' - we calculate the Late Start and Late Finish of all the activities in the
+network diagram.
+
+
+
+
+Question - 24
+
+Of the following types of contracts - which has the HIGHEST risk for the seller ?
+
+A. Cost plus fixed fee - CPFF
+
+B. Time and Material - T and M
+
+C. Firm Fixed Price Contract - FFP
+
+D. Cost plus Incentive fee - CPIF
+
+
+C is the correct answer.
+
+The riskiest for the seller in the options stated above is - Firm Fixed Price Contract -
+FFP.This is because its a Fixed price contract in which total costs are fixed - the scope of
+work is clearly defined and stated.Cost-reimbursable contracts are the least risky for the seller
+since the costs are not fixed and paid at actuals.Time and material have medium risk from the
+perspective of the buyer and seller and are typically used for smaller dollar amounts.The
+correct answer is option C
+
+
+
+
+Question - 25
+
+What is the BEST use of a Work Authorization System ?
+
+A. It manages the timing and sequence of when activities need to be performed
+
+B. It manages who performs the activity
+
+C. It identifies the resources needed to complete activities
+
+D. It is used for comparing actual work against the baselines
+A is the correct answer.
+
+It defines how work will be authorized and how work will be done at the right time and in the
+right sequence.Option B is not correct since who performs the work comes from the
+responsibility assignment matrix and neither is option C the right answer.Option D is related
+to monitoring and controlling work performace data which is not covered by Work
+Authorization System - so - option A is the correct answer
+
+
+
+
+Question - 26
+
+You are in charge of a software project and you are almost 40% complete.The project
+stakeholders want a [performance report to date.You had planned to use Earned Value
+Management methodology.You come up with the following numbers: EV = 100 AC = 300
+PV = 150 BAC = 600 You and your team have faced numerous issues till now . However you
+choose to ignore the current work performance and decide to go with what was originally
+planned. Based on this information what would be the EAC for the project ?
+
+A. 800
+
+B. 200
+
+C. 600
+
+D. 1800
+
+
+A is the correct answer.
+
+The correct answer is A - this is because here it is stated that whatever issues or lack of them
+experienced in the project were ignored - so here the past performance is not considered
+while the planned values are considered.So the formula : EAC = AC + ( BAC - EV ) = 300 +
+( 600 - 100 ) EAC = 800
+
+
+
+
+Question - 27
+
+Your team has delivered phase one to the client. Based on client feedback and issues found
+by client - you decide to do some introspection to identify root causes so that the subsequent
+deliverables do not face the same issues.What techniques would you choose to apply ?
+
+A. Perform Quality Audits
+
+B. Review Activity Network Diagrams
+C. Lookup Process decision program charts
+
+D. Process Analysis
+
+
+D is the correct answer.
+
+Quality Audits are meant to ascertain if the project activities confirm to the policies and
+procedures - so it is not the correct answer.Activity Network diagrams are used for
+scheduling while Process decision program charts are used to aniticipate intermediate steps .
+The correct answer is Process Analysis - which is used to identify a problem , identify the
+cause of the problem and develop preventive actions.
+
+
+
+
+Question - 28
+
+Over lunch you meet a colleague who is managing a large turnover project for setting up a
+chemical plant.Your colleague is worried because the client is being unreasonable and asking
+for changes that will have a severe impact to the scope schedule and also cost.The client is
+also not ready to absorb the additional impact to schedule and cost.She seeks your advise -
+what should she do ?
+
+A. Refuse to budge and not make any changes
+
+B. Request her executive management to initiate legal action against the client
+
+C. Ultimately the customer is always right - so go ahead and make the changes and absorb the
+impact to cost , schedule and scope
+
+D. Set up a meeting with the client to better understand the need of the changes being asked
+for
+
+
+D is the correct answer.
+
+Why is the client being unreasonable ? why does the client want to make these changes ?
+Obviously your colleague is in a tough situation and not in a nice place to be.However tough
+the problem - a project manager must not act impulsively by seeking legal action or refuse or
+immediately start making the changes.Whenever faced with a problem a project manager
+should first try and find the root cause and not react.So in this case the best advise would be
+for your colleague to set up a discussion with the client and try and understand the needs of
+the client for asking for the change is causing
+
+
+
+
+Question - 29
+You are managing a project to set up a brand new play area for the community.You and your
+team have been working as per plan and things are moving smoothly.Suddenly one of the
+stakeholders indicates that the play area must also include a sand pit.This was not originally
+planned for so you analyze the impact to the cost , schedule and scope.You then submit the
+change request to the Change control board for their approval.You have immediately
+received an approval - what should your next step be ?
+
+A. Get the work done immediately and start executing
+
+B. Update the impacted baselines - scope , cost and schedule
+
+C. Update the work performance reports and share with stakeholders
+
+D. Setup a meeting with the change control board
+
+
+B is the correct answer.
+
+Once you have created the change request and submitted for approval - you dont need to set
+up a separate meeting with the change control board - unless asked for.Work performance
+reports will be shared as per agreed frequency - however it is irrelevant to the question.You
+might be tempted to jump in and start work immediately - but the first thing that should be
+done is to update the impacted baselines.In this case all the three baselines - this is necessary
+to ensure that performance information is tracked against the new baselines and not the old
+ones - the correct answer is option B
+
+
+
+
+Question - 30
+
+As a project manager - you are expected to calculate the cost of Poor Quality - the project
+work is in progress - what costs would you consider ?
+
+A. Cost of Hiring.
+
+B. Prevention costs.
+
+C. Appraisal costs.
+
+D. External and Internal Failure costs.
+
+
+D is the correct answer.
+
+Cost of Hiring has nothing to do with cost of Poor Quality - so it is not the correct
+answer.Cost of Poor Quality is just another term for Failure Costs. Failure Cost is generally
+categorized into External and Internal Failure costs - so option D is correct.Prevention and
+Appraisal costs are actually costs of conformance - which is the cost incurred to avoid
+failures - so these are not considered as cost of Poor Quality.
+Question - 31
+
+You are in charge of building a bridge across a river. All the initial groundwork and structural
+designs have been completed and work is in progress.You know that the next two months
+will be particularly critical involving some critical activities such as Arc welding of stiffener
+plates.You know your company employs welders who specialize in this kind of
+work.However you are apprehensive regarding their availability for the next two
+months.What should you refer to first to find if these welders are available for the next two
+months?
+
+A. Milestone List
+
+B. Pareto Chart
+
+C. Histograms
+
+D. Resource Calendars
+
+
+D is the correct answer.
+
+The correct answer is - Resource Calendars. Resource Calendars provide information
+regarding availability of resources and also the duration of their availability so referring to
+this document would be the first course of action.
+
+
+
+
+Question - 32
+
+You and a group of managers who conduct a weekly meeting for sharing information and
+project management best practices.Joe who is a colleague of yours explains the need of
+correctly identifying all the project stakeholders.He explains that in his current project he has
+made use of Stakeholders Engagement Assessment Matrix.Many of the other colleagues are
+not quite aware of the need and usage of this matrix - which of the following is the BEST
+choice ?
+
+A. Lists all the stakeholders along with their current engagement and desired engagement
+
+B. Lists all the stakeholders
+
+C. Lists only those stakeholders who are Resistant
+
+D. Lists only those stakeholders who are Supportive
+
+
+A is the correct answer.
+As the name suggests this document is used to identify the current engagement level of
+project stakeholders.It can also be used to indicate desired level of engagement.Through this
+analytical process gaps in engagement levels can be identified and action plans and
+communciation plans can be generated to bridge these gaps. The Stakeholder Engagement
+Assessment Matrix does not list stakeholders depending on their engagement level - so
+options C and D are clearly wrong.While you might be tempted to choose option B - since we
+do list down all the stakeholders in a matrix in this document - the better and more qualified
+answer is Option A - where along with the complete list of stakeholders we also indicate their
+current and desired engagement level.
+
+
+
+
+Question - 33
+
+Your company policy allows you to gift customers within certain limit. By mistake, you have
+given a gift to the customer's representative already which is beyond the limit mentioned in
+your company policy. What should you do?
+
+A. Forget it and don't tell anyone.
+
+B. Contact your company's senior management and ask for assistance.
+
+C. Ask your customer to return the gift.
+
+D. Ask your customer to give you a gift which has the same cost
+
+
+B is the correct answer.
+
+Best option is to contact your company's senior management and ask for assistance.
+
+
+
+
+Question - 34
+
+Earned Value Analysis is used to measure performance based on following parameters:
+
+A. Scope and Cost
+
+B. Scope and Schedule
+
+C. Scope , Cost and Schedule
+
+D. Cost and Schedule
+
+
+C is the correct answer.
+The correct answer is - C - Earned Value Analysis is performed based on Scope , Schedule
+and Cost.
+
+
+
+
+Question - 35
+
+Which of the following statements are not true regarding Scope Verification ?
+
+A. Consists of conducting inspections , reviews and audits.
+
+B. Used to determine if results conform to requirements
+
+C. Used to get formal sign off from clients
+
+D. Used to determine schedule variance
+
+
+D is the correct answer.
+
+All the options except schedule variance are true regarding scope verification.Note that this
+process can also be done at the end of each project phase in the project lifecycle.So the
+correct answer to the question is option D since scope verification has nothing to do with
+schedule variance
+
+
+
+
+Question - 36
+
+What is the purpose of fishbone diagram?
+
+A. To illustrate how various factors might be linked to potential problems or effects
+
+B. Are used to determine if the process are in control
+
+C. Show trends in a process over time
+
+D. Shows the pattern of relationship between two variables
+
+
+A is the correct answer.
+
+Fishbone diagram : To illustrate how various factors might be linked to potential problems or
+effects.
+Question - 37
+
+Which of the following best describes Vrooms Expectancy theory ?
+
+A. Employees will put in efforts dependant on expectancy, valence, and instrumentality
+
+B. Employee motivation is not achievable - employees must be forced to get things done
+
+C. Hygiene factors will ensure that job dissatisfaction not occur - however it does not ensure
+job satisfaction
+
+D. People have needs starting with Physiological Needs and ending with self actualization
+
+
+A is the correct answer.
+
+Vrooms Expectancy theory is based on the idea that people believe there are relationships
+between the effort they put in at work, the performance reviews / ratings they are credited for
+the effort, and the rewards they receive from their effort and performance review ratings. So
+people will be motivated if they believe that hard work and effort will lead to good
+performance reviews and good performance reviews will lead to desired rewards. This theory
+consists of three key elements: Expectancy - Perception of employee of how much and what
+amount of effort will lead to a desirable performance rating. Instrumentality - Perception or
+expectation that a good performance rating would translate into a hefty salary hike Valence -
+Preference of an employee for a certain reward. Option B is clearly unrelated to this theory -
+so it is not the correct answer. Option C is related to Herzbergs Hygiene theory - so it too is
+not the correct answer Option D is talking about Maslows Theory of Hierarchial needs - so
+again not the correct answer. Option A is the correct answer.
+
+
+
+
+Question - 38
+
+You are managing a project that that your company won after making a bid.The clients have
+negotiated long and hard and have driven a hard bargain.The project is scheduled to span
+over eight months and you are in your fifth month of execution.You are extremely worried
+since you have about four more months of work remaining and the project is at the 'Point of
+total assumption' - what does this mean ?
+
+A. As a seller you are running behind schedule
+
+B. As a seller you are ahead of schedule
+
+C. The project is going to have a cost overrun which will need to be negotiated with the client
+
+D. As a seller all subsequent costs will have to be borne by the seller
+
+
+D is the correct answer.
+The point of total assumption is the point at which the seller has consumed all the fees and
+will now bear the costs.This means that the project is a firm fixed price contract and seller has
+consumed all the contract fees and is forced to shll out money which is a loss.Since point of
+total assumption is applicable to firm fixed price contract - option C is not an option where
+seller can negotiate with the buyer for additional cash flow.The correct answer is option D
+
+
+
+
+Question - 39
+
+You are managing a project which involves building software for the aeronautical
+domain.The nature of the work is complex and needs a lot of research.During Quality
+assurance both the development team and testing team suggest that the quality assurance
+process be changed to also include White Box testing and not only rely on Black box
+testing.The team wants to make this shift in approach as they believe this would lead to better
+quality of deliverables - what is the best course of action ?
+
+A. As the changes will help improve quality - execute white box texting
+
+B. Create a change request
+
+C. Refuse to adopt this change as this would mean a change in agreed process
+
+D. Analyze the impact of the change to scope , schedule and cost and then write up a Change
+Request
+
+
+D is the correct answer.
+
+This is a question meant to test your understanding of change management.Any change
+however small or big should always be first analyzed for its impact to the constraints - scope ,
+cost and schedule and then should be submitted to change control for approval.Changes
+without formal approval should not be implemented.
+
+
+
+
+Question - 40
+
+The Scope Baseline consists of the following:
+
+A. Approved Project Scope Statement , WBS , WBS Dictionary
+
+B. Preliminary Project Scope Statement,Approved Project Scope Statement , WBS , WBS
+Dictionary
+
+C. Scope Management Plan,WBS,WBS Dictionary
+
+D. Scope Management Plan,Approved Project Scope Statement,WBS Dictionary
+A is the correct answer.
+
+The correct answer is A.
+
+
+
+
+Question - 41
+
+You are the project manager and decided to outsource a part of the project to a vendor. The
+vendor discovered some issues that impact the cost and schedule of its work. How does the
+vendor update the agreement?
+
+A. A new contract needs to be signed by your company and the vendor
+
+B. A contract addendum needs to be signed by your company and the vendor
+
+C. An SOW needs to be signed by you and the vendor
+
+D. None of the above
+
+
+B is the correct answer.
+
+A contract addendum needs to be signed by your company and the vendor.
+
+
+
+
+Question - 42
+
+As a manager on a project your key outlook is to ensure that the project delivers within the
+scheduled timelines with minimal rework and customer delight.For some time now the
+project work is proceeding smoothly with a CPI and SPI a perfect 1.One of your team
+members approaches you and indicates that she might possibly need a long vacation on
+personal grounds.She indicates this could possibly occur in two months from now.You look
+up the schedule and as luck would have it - this team member happens to be scheduled to
+execute activities which are on the critical path - and her absence in two months time would
+cause a delay in schedule.You decide to take some action and reschedule task allocation to
+ensure that this team member is not planned to work on any of the critical path
+activities.What did you just do ?
+
+A. Mitigate the risk
+
+B. Avoid the risk
+
+C. Transfer the risk
+D. Exploit the risk
+
+
+B is the correct answer.
+
+You have avoided the risk where by interchanging the tasks you have ensured that the
+resource who could go on a long vacation does not work on critical path activities.There is no
+question of exploiting the risk as this is not a positive risk.This is not a case of Risk
+mitigation since neither have you created a backup plan nor have you come up with an
+alternate strategy- so the correct answer is Risk avoidance - option B
+
+
+
+
+Question - 43
+
+You are in the process of executing a project that deals with laying out electrical cables
+connecting two cities.You have been reporting progress on a monthly basis.In this month due
+to unplanned vacations many of the staff have not turned up at work.This has caused a delay
+in the schedule.You decide to check if the schedule variance is within the allowable
+threshhold - what document should you refer to ?
+
+A. Project Management Plan
+
+B. Schedule Management Plan
+
+C. Project Schedule Network Diagram
+
+D. Activity Definition
+
+
+B is the correct answer.
+
+The correct answer is Option B - the acceptable schedule variances are defined in the
+Schedule Management Plan.
+
+
+
+
+Question - 44
+
+Which of the following activities is not performed as a part of Project Closure ?
+
+A. Ensure all the deliverables as per contract are met
+
+B. Create lessons learned and update Organizational Process Assets
+
+C. Formal acceptance
+
+D. Verify scope
+D is the correct answer.
+
+All the options except Verify scope are performed during project closure.Ensuring
+deliverables meet contract requirements and formal acceptance are key activities of project
+closure.Lessons learned is also a very important activity performed during project
+closure.However Verify scope is not performed during project closure - rather it belongs to
+the Monitoring and Controlling process group.
+
+
+
+
+Question - 45
+
+Of the following types of contracts - which has the HIGHEST risk for the buyer ?
+
+A. Cost plus fixed fee - CPFF
+
+B. Time and Material
+
+C. Firm Fixed Price Contract - FFP
+
+D. Fixed Price Incentive Fee Contracts - FPIF
+
+
+A is the correct answer.
+
+The riskiest for the buyer in the options stated above is - Cost plus fixed fee.This is because
+its a Cost-reimbursable type of contract in which total costs are unknown - so there is an
+element of risk involved as total scope of work is not clear.Time and material have medium
+risk from the perspective of the buyer and are typically used for smaller dollar amounts.Of
+the options the Fixed price options are the least risky for the buyer since the cost will not
+change no matter what for the buyer ! The correct answer is option A
+
+
+
+
+Question - 46
+
+You are in charge of building a shopping portal.You are fairly confident as you have a team
+experienced in doing such work.As per the agreement at the end of the first month you
+organize a demonstration of the software.You invite the sponsor and key stakeholders.Later
+the sponsor informs you that she is not very happy with the progress indicating that one of the
+clients who would be using this software is not satisfied as her needs are not being met.To
+satisfy this client's needs would mean some radical changes with an impact to both cost and
+schedule.What could be the root cause of this issue?
+
+A. Deliverables were not as per requirement
+B. The stakeholder is making unrealistic demands
+
+C. The scope statement was ambiguous leading to this
+
+D. All the stakeholders were not identified
+
+
+D is the correct answer.
+
+The correct answer in this case is improper stakeholder analysis - Option D.While options A ,
+B and C could be true the question gives no indication of these being the case.The question
+does mention about an important client whose expectations were not met.Stakeholder
+analysis deals with identifying all the stakeholders , their needs and expectations and their
+influence.In this case as the client's needs are not being met - it means that stakeholder
+analysis and identification was not done correctly.
+
+
+
+
+Question - 47
+
+Top-down estimating is also called _______ estimating.
+
+A. Analogous
+
+B. Primary
+
+C. Organizational
+
+D. Simple
+
+
+A is the correct answer.
+
+A is the correct answer. Top-down estimating is also called Analogous.
+
+
+
+
+Question - 48
+
+The _________ is the international organization that controls the standards for quality.
+
+A. ISO
+
+B. PMP
+
+C. PMI
+
+D. ISCII
+A is the correct answer.
+
+The ISO is the international organization that controls the standards for quality.
+
+
+
+
+Question - 49
+
+Your company has won a large project for one of the fund houses to administer their
+funds.The project work has been going on smoothly and the customer has been singing
+praises about the work done so far.The client has planned a visit the next month to go over
+the plans for the next phase of the project as well as to meet with the project team.Your
+senior management realizes that this client could potentially need additional capabilities in
+the derivatives segment.Your company happens to have a strong exposure to this segment
+having executed numerous such projects.Your senior manager also invites key managers
+from the derivatives segment to showcase the organizations abilities in the derivates vertical -
+this is an example of ?
+
+A. Mitigating the risk
+
+B. Avoiding the risk
+
+C. Transferring the risk
+
+D. Exploiting the risk
+
+
+D is the correct answer.
+
+This is an example of exploiting the risk.As the question states the client is happy with the
+work progress and also there might be an opportunity that the client might be interested in the
+derivatives segment.So this is an opportunity that could lead to more business.By inviting key
+managers from the other segment - you are enhancing the possibility of generating additional
+revenue - so this is an example of exploiting the risk.Note that this is a positive risk.
+
+
+
+
+Question - 50
+
+Project Team has created sub plans for each activity in project plan. These plans are called :
+
+A. resource plans
+
+B. activity plans
+
+C. sub plans
+D. management plans
+
+
+D is the correct answer.
+
+D is the correct answer. These plans are called management plans.
+
+
+
+
+Question - 51
+
+You are in your third month of project execution which is expected to continue for a duration
+of 14 calendar months. Your sponsor has asked for a performance report. You decide to
+create a S curve. Based on the S curve you report your Actual Cost which is more than the
+Earned Value.Also the Planned Value is greater than the Earned Value. What would be the
+interpretation of this data ?
+
+A. The project is over budget and behind schedule]>
+
+B. The project is on schedule and on budget
+
+C. The project is over budget but on schedule
+
+D. The project is on budget but behind schedule
+
+
+A is the correct answer.
+
+The correct asnwer is A - this is because the SPI is less than 1 and the CPI is also less than 1.
+
+
+
+
+Question - 52
+
+You have been asked to provide Cost estimates for a project which would be responsible for
+the complete electrical installation in warehouses. As a project manager - you have had past
+experience in similar projects in your previous organization.The organization you have joined
+- also has recently done a similar project - and there is an urgency in providing the estimate as
+mandated by executive management - so what estimation technique would you adopt ?
+
+A. Ask your prior organization for the estimates
+
+B. Use Parametric Estimating technique
+
+C. Use Bottom Up Estimating
+
+D. Analogous Estimates
+D is the correct answer.
+
+The correct answer is Analogous estimates - since it relies on previous similar project as the
+basis of estimation - which is available - so it relies on historical information.This technique
+is used when there is limited amount of detailed information like during early phases of the
+project , it is less costly and less time consuming - and as time is a constraint stated in the
+question - this is the best choice.
+
+
+
+
+Question - 53
+
+You are a project manager managing a project that has not been making good
+progress.Certain issues like a flash flood have significantly delayed the laying out of the
+plinth for the shopping complex.There have been a lot of escalations from key stakeholders
+and executive management is pressing for getting the project on track.In a review meeting -
+your lead architect sensing the urgency - suggests a change that could significantly decrease
+the schedule.She is very confident that the suggested change will work to get things on track.
+As a project manager what is the best course of action ?
+
+A. The project is lagging - so implement the change request as it would reduce the schedule
+
+B. Reject the idea of making the change as this will need an approval from change control
+
+C. Create a change request and submit to change control board
+
+D. Identify the impact of the change to the scope and cost and then include this information in
+the change request
+
+
+D is the correct answer.
+
+No changes should be made without a formal approval - so option A is clearly
+wrong.Rejecting ideas without doing a thorough analysis of the impact is also not the correct
+approach.Now the option of creating a change request and submitting for approval sounds
+like the right option - however the better approach is to always do an analysis of the impact to
+scope , time and cost and then submit the change request. So while option C is correct the
+better option is D
+
+
+
+
+Question - 54
+
+You are in charge of managing a software development project which is related to
+simulations for driving racing cars.In one of your team meetings - it has been reported that a
+lot of issues have been reported in the air tunnel modelling module.On deeper analysis - it is
+found that many of the issues could have been prevented had a simple code review checklist
+been used.You decide to mandate usage of the code review checklist for all subsequent
+deliveries to ensure other deliveries are less issue prone. This is a good example of :
+
+A. Corrective Action
+
+B. Preventive Action
+
+C. Defect Repair
+
+D. Quality Control
+
+
+B is the correct answer.
+
+This question is meant to test your understanding of the difference between what corrective
+action and preventive action is.Defect repair might sound tempting - but it is only applicable
+for the issues found for the current delivery.Here the question also states some additional
+steps being mandated ( code review for all subsequent deliveries ).This is also not about
+Quality Control - so that leaves us with only two options - Corrective or Preventive
+actions.Corrective actions are always preceded by nonconformity while preventive action is
+never preceded by nonconformity.In this case nonconformity in the form of a lot of issues
+during Quality Assurance were reported.The root cause was identified to be the need of a
+standard checklist which was then used.This would have been a case of Corrective action had
+no other actions been taken other than usage of the code review checklist for the current
+delivery.In addition a decision was taken to use the checklist for all subsequent deliveries - to
+ensure the same issues did not occur - Preventive action is always taken proactively - here
+mandating usage of code review checklist for other deliveries is a demonstration of proactive
+steps taken - hence this is an example of Preventive action.The correct answer is option B -
+Preventive action.
+
+
+
+
+Question - 55
+
+You are in charge of constructing a High Rise residential building.After creating a Network
+diagram - you have identified the Critical Path. Work has started - but suddenly due to
+inclement weather plinth work has got delayed. This plinth work activity was on the critical
+path . As a manager driving this project would you be worried and why ?
+
+A. No - It will not matter if the Plinth work is delayed.
+
+B. No - Activities on the critical path do not impact the schedule
+
+C. Yes - Any delay of activities on the critical path would lead to a delay of the entire project
+
+D. Yes - you will now have to relay this bad news to the client
+C is the correct answer.
+
+The correct answer is - C - since activities on critical path if delayed can lead to a delay in the
+entire Project.Options A and B are incorrect while option D is a very subjective answer and
+nowhere does the problem state how the stakeholders would take the news - so the best
+answer in this case is option C
+
+
+
+
+Question - 56
+
+You know that the success of your project will be determined by how well you manage
+risks.You know that identifying risks upfront can help you be better prepared with risk
+response strategies.You discuss and consult with other project managers in the company.One
+manager suggests usage of SWOT to identify risks.What would you do next as a part of this
+technique ?
+
+A. Gather team members and experts together and discuss to identify risks
+
+B. Gather anonymous responses from experts and identify risks
+
+C. Perform root cause analysis to identify problems , their cause and potential response
+
+D. Identify the Organizations strengths and weaknesses
+
+
+D is the correct answer.
+
+SWOT involves identification of the strengths and weaknesses of the organization.This
+technique then identifies the threats due to organization weakness as well as opportunities
+due to the organizations strengths.So option D is the correct answer.The other three options
+are also risk identification techniques but the question is specific to SWOT
+
+
+
+
+Question - 57
+
+You have been assigned to a project that deals with developing a software product for the
+BFSI domain.You and your team are building the schedule network diagram.While
+sequencing activities one of the team members - who is an Architect indicates that rather than
+interacting with the database on every activity - we should introduce an activity which would
+cache the data.He argues that this will improve performance and hence this activity should be
+introduced in the sequence prior to the other activities that deal with database interaction.
+What kind of a dependency is this ?
+
+A. This is an example of Mandatory Dependency
+B. This is an example of External Dependency
+
+C. This is an example of Discretionary Dependency or Soft Logic
+
+D. This is an example of Hard Logic
+
+
+D is the correct answer.
+
+The correct answer is C.Discretionary Dependency is also known as Soft Logic or Preferred
+Logic or Preferential Logic.Note that this is not a mandatory dependency - as it is not a 'Must
+Have' but more a 'Should have'.Discretionary dependency decisions are usually based upon
+best practices, business knowledge.In this case a Software architect can be assumed to be an
+expert in his field.
+
+
+
+
+Question - 58
+
+You and your team are in the process of creating WBS and WBS Dictionary.What would be
+the BEST choice of attributes in a WBS Dictionary ?
+
+A. Work Package ID and Work Package Description
+
+B. Work Package ID,Control Account ID and Work Package Description
+
+C. Work Package Description
+
+D. Work Package ID,Control Account ID,Work Package Description,Acceptance
+Criteria,Responsible Organization,Cost,Assumptions
+
+
+D is the correct answer.
+
+Options C,A,B each provide greater details of what a WBS Dictionary should contain - so
+they all seem like the right choices.However the question asks about the BEST choice of
+attributes in a WBS Dictionary - which is provided in Option D.Note that the WBS and WBS
+Dictionary are co-related by WBS Name and Work Package ID
+
+
+
+
+Question - 59
+
+Which of the following statements is NOT true regarding change log ?
+
+A. Change log is used to log only approved change requests
+
+B. It is used to document changes that occur duing a project
+C. The changes along with their impact to cost , time and risk are logged
+
+D. Rejected change requests are also captured in the change log
+
+
+A is the correct answer.
+
+The change log is used to log all change requests - approved and rejected changes.Along with
+the changes their impact to cost , time and risk details are also documented. So option A is
+not true regarding change logs and hence is the correct answer.
+
+
+
+
+Question - 60
+
+What does S Curve depict a relationship between ?
+
+A. Resource Availability over time
+
+B. Remaining budget
+
+C. A relationship between Actual Cost , Planned Value and Earned Value
+
+D. Shows the relationship between Cost and Quality
+
+
+C is the correct answer.
+
+The correct answer is C - S curve shows a relationship between Actual Cost , Planned Value
+and Earned Value.
+
+
+
+
+Question - 61
+
+Which of the following statements are false regarding Risk Management?
+
+A. All identified risks are maintained in the Risk Register.
+
+B. Risk prioritization occurs in Qualitative Risk Analysis.
+
+C. Risk prioritization occurs in Quantitative Risk Analysis.
+
+D. Low priority risks are maintained in a Watch List.
+
+
+C is the correct answer.
+All of the statements are true except the statement regarding Quantitative Risk
+Analysis.Quantitative Risk analysis does not deal with prioritizing risks.The prioritization
+occurs in the Qualitative Risk Analysis process.Quantitative Risk Analysis deals with
+assigning numeric values to risks.
+
+
+
+
+Question - 62
+
+Which of the following statements is not true regarding a Contract ?
+
+A. Legally binding in nature
+
+B. Obligates buyer to provide compensation and obligates seller to provide some product or
+service in return
+
+C. By careful administration of terms and conditions the buyer can transfer some of the risks
+to the seller
+
+D. Contracts undergo an approval process as any other plan
+
+
+D is the correct answer.
+
+This question tests your knowledge about contracts and procurement.At the onset all the
+answers seem to be correct with respect to the contract.A contract is legally binding in nature
+, its an agreement of seller providing some service or product and buyer compensating the
+seller.Some of the risks can indeed be transferred to the seller through terms and
+conditions.Because of the legal nature of a contract - generally contracts are subject to a more
+intensive approval process - much more intense than our other plans - hence in the context of
+the question - option D is the right answer
+
+
+
+
+Question - 63
+
+You are in charge of a project for the electrical layout of a 5 star hotel.You see this as a very
+simple project as you and your team have a lot of experience excuting similar such
+projects.As a result your organization has a wealth of Organizational Process assets.You have
+worked out the exact details of the work involved and have a very detailed WBS with
+granular level activities defined.You decide to employ the services of a contractor for laying
+out of the cable trays.What kind of a contract would be the best choice ?
+
+A. Cost-reimbursable contract
+
+B. Fixed-price contract
+
+C. T and M contract
+D. None of the above
+
+
+B is the correct answer.
+
+When as a buyer you are clear of the scope and statement of work - the contract choice
+should be Fixed-price.This is because in this type of contract if scope is clearly defined - then
+almost all of the risk lies with the seller.here the buyer is smug with the confidence of having
+had experience in executing similar projects in the past and has also broken down WBS into
+detailed activities - so scope is clear - so the correct answer is option B
+
+
+
+
+Question - 64
+
+Which hierarchical chart shows resources?
+
+A. RBS
+
+B. OBS
+
+C. WBS
+
+D. Scope statement
+
+
+A is the correct answer.
+
+A is the correct answer. The Resource Breakdown Structure shows various resources, both
+human and mechanical needed for the project.
+
+
+
+
+Question - 65
+
+Your company has won a project to build a school playground with specific toys and a
+sandpit.The school has mandated that the project be completed prior to start of the school
+after Holidays .You review the plan and see that the estimated completion date is nearly a
+month after the desired completion date.As resources are sparse you do not have the option to
+add additional resources.However you see that the sand pit work can start in parallel to the
+play kits being installed.Your analysis tells you that by performing these activities in parallel
+- the project would meet its schedule.This is an example of :
+
+A. Scope Creep
+
+B. Resource Levelling
+C. Crashing
+
+D. Fast Tracking
+
+
+D is the correct answer.
+
+The correct answer is D - Crashing deals with adding additional resources which is not an
+option here.Crashing is a schedule compression technique by performing activities in parallel
+if they can be overlapped.NOTE Fast Tracking may result in increased risk and rework.
+
+
+
+
+Question - 66
+
+You are in charge of a project to build a bridge across a river.You are midway through the
+project.However due to changes in environmental laws the project can no longer proceed and
+would need to be terminated.Executive management has asked you to document the level of
+work completed for the project.This would be done in which of the processes ?
+
+A. Project Closure
+
+B. Contract closure
+
+C. Project charter
+
+D. Scope Verification
+
+
+D is the correct answer.
+
+The correct answer is option D.Not only is Scope verification performed while the project is
+executing - it is also performed when a project is terminated.It is used to determine the level
+of completion.
+
+
+
+
+Question - 67
+
+You have asked your team members to provide estimates of tasks.Based on the estimate
+provided you see a specific team member seems to have provided estimates on the higher
+side.You decide to discuss with the concerned team member.She replies that as she did not
+have an idea of how long it would take she had guessed the estimate and then to be on the
+safer side simply doubled it ! What is this known as ?
+
+A. This is a Lead
+
+B. This is a Lag
+C. This is Free Float
+
+D. This is a Pad
+
+
+D is the correct answer.
+
+The correct answer is D - Pad is adding time as a buffer to project estimate.As the team
+member was uncertain of what it would take and as stated to be on the safer side she simply
+doubled the estimate.Padding is a sign of poor Project Management.
+
+
+
+
+Question - 68
+
+You are in the process of making cost estimates for a project.However detailed requirements
+are not yet available.A similar project was executed by your company and you decide to use
+the past projects historical data to come up with your estimates. This is called -
+
+A. Analogous estimating
+
+B. Parametric estimating
+
+C. Bottom-up estimating
+
+D. Three point estimating
+
+
+A is the correct answer.
+
+The correct answer is Analogous estimating - since analogous estimation relies on past or
+historical data of similar nature. As the project is at an early state - where the detailed
+requirements are not yet available - this is the best technique suited to come to an early
+estimate - though it may not be very accurate.
+
+
+
+
+Question - 69
+
+You are the project manager for a large Project. You are currently busy with approximating
+number of work periods required to complete individual activities with estimated resources.
+Which of the following inputs do you need for this ?
+
+A. Activity List
+
+B. Activity resource requirements
+C. Resource Breakdown structure
+
+D. All of the above
+
+
+C is the correct answer.
+
+C is the correct answer. Approximating number of work periods required to complete
+individual activities with estimated resources is done in Estimate Activity Duration process.
+Activity List,Activity resource requirements and Resource Breakdown structure are inputs of
+Estimate Activity Duration process.
+
+
+
+
+Question - 70
+
+You and your team are planning out the work to be done.You break up the work into discrete
+workpackages.To ensure that each work package has all the necessary details - you and your
+team decide to write down detailed information for each work package such as Statement of
+work , details of the work package and who will be the responsible individual for the work
+package.Where would you store this information in ?
+
+A. Approved Project Scope Statement
+
+B. WBS Dictionary
+
+C. WBS
+
+D. Project Management Plan
+
+
+B is the correct answer.
+
+The correct answer is B - which is where this information is stored.
+
+
+
+
+Question - 71
+
+You are the project manager of a software project. You have just analyzed activity sequences,
+durations, resource requirements , schedule constraints and created project schedule. The
+above task belongs to which process?
+
+A. Define Activities
+
+B. Sequence Activities
+
+C. Develop Schedule
+D. Control Schedule
+
+
+C is the correct answer.
+
+C is the correct answer. analyzing activity sequences, durations, resource requirements ,
+schedule constraints and creating project schedule belongs to Develop Schedule process.
+
+
+
+
+Question - 72
+
+You know that the success of your project will be determined by how well you manage
+risks.You know that identifying risks upfront can help you be better prepared with risk
+response strategies.So you decide to identify risks by taking help of experts.You have
+identified some good experts and rather than calling them into your office - you send them
+questionnaires.You promise them complete anonymity so that they give unhindered
+responses.What information gathering technique are you adopting?
+
+A. Brainstorming
+
+B. Root Cause Identification
+
+C. SWOT analysis
+
+D. Delphi Technique
+
+
+D is the correct answer.
+
+All four options listed above are information gathering techniques - but the correct answer is
+Delphi Technique.This is a form of information gathering technique where inputs from
+experts is solicited anonymously without gathering them together.
+
+
+
+
+Question - 73
+
+Which of the following best describes Achievement Theory of Motivation ?
+
+A. Employees given a reward are most likely to be motivated
+
+B. People cannot be trusted and must be governed and monitored regularly to ensure tasks get
+done
+
+C. People are motivated by achievement , power and affiliation
+D. Employees will put in an effort in direct proportion to the perceived review and reward
+
+
+C is the correct answer.
+
+Option A and Option D are related to Expectancy theory , Option B is related to Theory X
+style of management - so these options are not the correct answers. Option C - is the correct
+answer - this theory states - there are three types of motivational needs: Need for achievement
+, need for authority and power , need for affiliation. As per this theory a strong 'affiliation-
+motivation' undermines a manager's objectivity, because of their need to be liked, and that
+this affects a manager's decision-making capability. A strong 'authority-motivation' will
+produce a determined work ethic and commitment to the organisation. such people are
+attracted to the leadership role, though they may not possess the required flexibility and
+people-centred skills. People with strong 'achievement motivation' make the best leaders,
+although there can be a tendency to demand too much of their staff in the belief that they are
+all similarly and highly achievement-focused and results driven, which of course most people
+are not. As per this theory achievement-motivated individuals set goals which they can
+influence with their effort and ability, and as such the goal is considered to be achievable.
+This determined results-driven approach is almost invariably present in the character make-
+up of all successful business people and entrepreneurs. Achievement is more important than
+material or financial reward. Achieving the aim or task gives greater personal satisfaction
+than receiving praise or recognition. Financial reward is regarded as a measurement of
+success, not an end in itself. Security is not prime motivator, nor is status. Feedback is
+essential, because it enables measurement of success, not for reasons of praise or recognition
+(the implication here is that feedback must be reliable, quantifiable and factual).
+Achievement-motivated people constantly seek improvements and ways of doing things
+better.
+
+
+
+
+Question - 74
+
+The key benefits of ____________ process is that it will maintain or increase the efficiency
+and effectiveness of stakeholder engagement activities as the project evolves and
+environment changes.
+
+A. Plan Stakeholder Engagement
+
+B. Identify Stakeholders
+
+C. Manage Stakeholder Engagement
+
+D. Monitor Stakeholder Engagement
+
+
+D is the correct answer.
+The key benefits of Monitor Stakeholder Engagement process is that it will maintain or
+increase the efficiency and effectiveness of stakeholder engagement activities as the project
+evolves and environment changes.
+
+
+
+
+Question - 75
+
+You are managing a project constructing a bridge over a river.All of the risks have been
+identified and the design phase is just completed.The team is in its second week of actual
+construction.One of the subject matter experts reports that there is a possibility of the
+monsoons to be heavier this year.She points out that the load bearing plates earlier designed
+may have to be redesigned considering the additional water pressure expected because of
+additional rain water.What would be your best immediate course of action?
+
+A. Schedule an emergency meeting with all stakeholders to discuss this risk
+
+B. Risk mitigation by immediately redesigning the load bearing plates
+
+C. Write up a change and submit to the Change Control Board for approval
+
+D. Update the Risk register to add this risk along with its probability and impact
+
+
+D is the correct answer.
+
+The question is asking about the best immediate course of action.The first course of action
+should be to add this risk in the Risk register.and also adding the possible impact and risk
+probability.No other action should be performed prior to this.So - scheduling an emergency
+meeting while might sound as the first thing to do is not correct and neither making any
+change to the design.Writing up a change will only come after the risk is documented , its
+probability and impact accessed and then based on this information can you choose to write
+up a change request.So the first course of action should be to Update the Risk register.
+
+
+
+
+Question - 76
+
+You are managing a project responsible for doing plantation on a large reserve land.You have
+created the schedule network diagram and have identified two paths. Path 1 consists of two
+activities of a duration of 2 and 5 weeks respectively.Path 2 consists of 3 activities with
+durations of 1 , 3 and 3 weeks respectively.Which of the two paths is the Critical Path ?
+
+A. Path 1
+
+B. Path 2
+
+C. Neither
+D. Both Paths 1 and 2 are Critical Paths
+
+
+D is the correct answer.
+
+The correct answer is D - since the duration of both the paths is 7 weeks.Remember that the
+path with the longest duration is the critical path and you can have more than 1 Critical Path!
+
+
+
+
+Question - 77
+
+What is the role of the Project Manager in Procurement ?
+
+A. Ensure contract contains all the project management requirements such as status reporting
+, meeting attendance and communication needs
+
+B. Ensure contract is satisfying the needs of the project
+
+C. Control changes to the contract
+
+D. All of the above
+
+
+D is the correct answer.
+
+Option D is the right answer - the project manager must ensure all of the above in
+Procurement.Many a times the project manager works with the contract manager.Here an
+important point is that the Project Manager must be assigned before the contract is signed
+
+
+
+
+Question - 78
+
+As a manager in an organization - which believes in the Theory X style of management -
+which of the following describes correctly the assumptions of this theory ?
+
+A. Employees are inherently lazy , dislike work and will avoid work if they can.
+
+B. Employees are motivated and enjoy doing their work.
+
+C. Employees want to do well at work.
+
+D. Employees are trustworthy and are motivated by doing a good job.
+
+
+A is the correct answer.
+Theory X assumes employees cannot be trusted and will only work if rewarded or under
+threat and coercion.This theory does not consider an employee to work on their own - so the
+correct option is A.The other options consider an employee to be self motivated and self
+starter - which is not what Theory X is based on.
+
+
+
+
+Question - 79
+
+You have recently joined an organizations project management office.After reviewing the
+organizational assets you realize that project managers have not routinely documented
+lessons learned for their projects.There are a few projects that are about to start - You decide
+to call up a meeting of all the project managers and explain the need of Lessons Learned.In
+order to get a buy in from your managers - What would you focus on as the best use of this
+document
+
+A. It helps the team to plan tasks
+
+B. It helps in performance reporting
+
+C. It will help the manager to better control the project
+
+D. The historical information can be used for other projects
+
+
+D is the correct answer.
+
+Note that the question states that new projects are about to start - and past lessons learned of
+projects could have served as good inputs for the other projects.Not having lessons learned
+handicaps the managers.So here the correct answer is D
+
+
+
+
+Question - 80
+
+Your project is in a critical phase.You notice one of the team members comes in late into
+office and leaves early.This is clearly impacting delivery.You decide to discuss the details
+with the concerned team member to better understand the details.On discussion you find no
+specific reasons so you explain the necessity and criticality of the project expecting the team
+member improves.However next week your lead engineer reports about inadequate time
+being spent by the same person in office.What would be the best choice of communication in
+this case ?
+
+A. Informal and verbal
+
+B. Formal and written
+
+C. Informal and written
+D. Formal and verbal
+
+
+B is the correct answer.
+
+In this case you have already tried out the option of discussing with the team member once -
+which is an example of Informal verbal.Clearly that has not worked so it calls for a more
+stricter reprimand - so here the correct form of communication would be a formal written
+communication.
+
+
+
+
+Question - 81
+
+Decomposition is best described as:
+
+A. Creating control accounts.
+
+B. Creating work packages.
+
+C. Breaking down deliverables into smaller work packages so they can be better planned
+
+D. Planning and scheduling of work packages
+
+
+C is the correct answer.
+
+Decomposition deals with breaking down deliverables into small discrete work packages that
+can be planned better.It also helps prevent work from slipping through the cracks and gives
+the project team a better picture of the work involved.
+
+
+
+
+Question - 82
+
+As a part of the Executive Management team - you have a number of project managers
+reporting into you. One of the project managers has reported data for her project that has got
+you worried regarding health of the project. EV = 300000 USD , PV = 550000 USD , AC =
+200000 USD You are worried since as per your calculations the project is behind schedule.
+However the Project Manager disagrees and she feels the project is ahead of schedule - what
+is the correct interpretation of the data ?
+
+A. Both are incorrect - the health of the project cannot be determined from this information
+
+B. Both are correct as interpretation is very subjective
+
+C. You are correct - the project is behind schedule
+D. Your Project Manager is correct - the project is ahead of schedule
+
+
+C is the correct answer.
+
+The correct answer is C - this is because SPI = EV / PV = 300000/550000 = less than 1 . A
+SPI less than 1 indicates the project is behind schedule.
+
+
+
+
+Question - 83
+
+To facilitate,measure and control Quality - you have been asked to use the seven basic quality
+tools - also known as 7QC tools - which ones would they be ?
+
+A. Cause and effect diagrams , Flowcharts , Checksheets , Pareto diagrams , Histograms ,
+Control Charts, Sequence Diagrams
+
+B. Cause and effect diagrams , Flowcharts , Checksheets , Pareto diagrams , Histograms ,
+Control Charts, Scatter Diagrams
+
+C. Activity diagrams , Flowcharts , Checksheets , Pareto diagrams , Histograms , Control
+Charts, Sequence Diagrams
+
+D. Cause and effect diagrams , Monte Carlo analysis , Checksheets , Pareto diagrams ,
+Histograms , Control Charts, Scatter Diagrams
+
+
+B is the correct answer.
+
+Option B is the correct answer.
+
+
+
+
+Question - 84
+
+You have scheduled regular weekly team meetings with project team members.Things have
+been going to plan and there have been no variances till date with respect to the work
+performance baselines.A site engineer reports that he had to perform a couple of corrective
+actions - however they were not logged - as a Project Manager what should you do ?
+
+A. Reprimand the team member for not documenting the corrective action
+
+B. Reprimand the team member and ensure the corrective action is reverted
+
+C. Do nothing - this is bound to happen on a project
+D. Document the corrective actions performed in the historical records
+
+
+D is the correct answer.
+
+All changes - including corrective actions , preventinve actions and defect repair must
+undergo change control prior to the change being made.It is also necessary to document the
+corrective and preventive actions taken in historical data as this can serve as a good input for
+subsequent projects.Reprimanding the team member now is of no use and allowing
+uncontrolled changes to happen is a recipe for disaster in project management ! Option D is
+the right answer.
+
+
+
+
+Question - 85
+
+You are negotiating with a contractor for additional staff augmentation - a number of
+software developers and a few testers .As a buyer you dont quite have the exact statement of
+work ready.What kind of contract is MOST appropriate for this kind of work ?
+
+A. Time and Materials - T and M
+
+B. Cost plus fixed fee - CPFF
+
+C. Firm Fixed Price Contract - FFP
+
+D. Fixed Price Incentive Fee Contracts - FPIF
+
+
+A is the correct answer.
+
+As the nature of work is not quite clear and this deals with contracting additional staff - the
+best choice of contract is T and M.Fixed price contracts are applicable where scope of work
+is quite clear which is not the case here.Here choosing a Cost-reimbursable contract makes no
+sense - since the unit rate of staff can be determined and agreed between you and the seller -
+so the best option is A - T and M
+
+
+
+
+Question - 86
+
+A process with lack of consistency and predictability is called:
+
+A. in control
+
+B. out of control
+
+C. bad quality
+D. quality noise
+
+
+B is the correct answer.
+
+A process with lack of consistency and predictability is called out of control.
+
+
+
+
+Question - 87
+
+The _________ details the different tasks for members in the project.
+
+A. Responsibility Assignment Matrix (RAM)
+
+B. WBS
+
+C. SOW
+
+D. Scope statement
+
+
+A is the correct answer.
+
+A is the correct answer. Responsibility Assignment Matrix (RAM) details the different tasks
+for the members in the project.
+
+
+
+
+Question - 88
+
+ISO Stands for __________ ?
+
+A. International Organization for Standardization
+
+B. International Standardized Organization
+
+C. In Standardized Organization
+
+D. None
+
+
+A is the correct answer.
+
+ISO Stands for International Organization for Standardization.
+Question - 89
+
+Your project activity float is negative 10. What is your course of action ?
+
+A. add more resources
+
+B. ask more time to complete the project
+
+C. use less experienced team members
+
+D. Ignore It.
+
+
+A is the correct answer.
+
+A is the correct answer. Negative activity float means your project is behind. Add more
+resource is best option.
+
+
+
+
+Question - 90
+
+The purpose of a quality audit is:
+
+A. To identify inefficient and ineffective policies
+
+B. To identify project quality for customer
+
+C. Study organizational behavior
+
+D. Prepare a report for the quality team
+
+
+A is the correct answer.
+
+Purpose of quality audit is to identify inefficient and ineffective policies.
+
+
+
+
+Question - 91
+
+Which of the following statements are not true regarding the Scope Management Plan ?
+
+A. Scope Management Plan is not a Part of the Project Management Plan.
+B. Provides guidance on how the Project Scope will be verified.
+
+C. Provides guidance on how the scope will be defined , documented monitored and
+controlled.
+
+D. Provides guidance regarding the enterprise environmental factors and organizational
+process assets that would play a part.
+
+
+A is the correct answer.
+
+All the options except Option A are true regarding the Scope Management plan.The Scope
+Management Plan is very much a part of the Project Management Plan.
+
+
+
+
+Question - 92
+
+You are the project manager of a project and you have added some dummy activities to
+correctly show all logical relationships Which network diagramming method have you used ?
+
+A. ADM (Arrow Diagramming Method)
+
+B. Precedence Diagramming Method (PDM)
+
+C. PERT
+
+D. None
+
+
+A is the correct answer.
+
+A is the correct answer. ADM (Arrow Diagramming Method) uses dummy activities to
+correctly show all logical relationships. Arrow Diagramming Method (ADM) uses arrows as
+activities, and nodes are used to connect and show dependencies. The Precedence
+Diagramming Method (PDM) uses boxes or nodes as activities and arrows as dependencies
+between the nodes.
+
+
+
+
+Question - 93
+
+You are in charge of a painting project for a high rise building.As part of the planning - you
+need to take a decision of buy Vs lease for some stilt ladders needed on site.The cost of the
+ladder is 1000 $ and a daily cost of 4$ while the daily lease cost is 12$.If you were to lease
+the ladder - what should be the duration to ensure your decision is correct ?
+
+A. A duration less than 126 days
+B. A duration less than 150 days
+
+C. A duration greater than 126 days
+
+D. A duration greater than 126 days
+
+
+A is the correct answer.
+
+Lets assume the duration to be X days. 12 * X = 1000 + 4 * X , 8X = 1000 , X = 125.This
+means that if the ladder is used for any duration equal or greater than 125 days it is
+economical to purchase rather than lease - so in other words to lease the duration should be
+equal to or less than 125 days - so option A is the right answer
+
+
+
+
+Question - 94
+
+In which of the following situation network diagram is better than bar chart ?
+
+A. to show inter dependecies between activities
+
+B. analysis of schedule progress
+
+C. analysis of WBS
+
+D. analysis of project plan
+
+
+A is the correct answer.
+
+A is the correct answer. network diagram is best to show Interdependencies between
+activities.
+
+
+
+
+Question - 95
+
+Your company has been tasked with providing estimates for a road construction project. You
+have data available related to costs per square feet. You now need to provide an estimate of
+the cost of the project based on this data - what estimation technique is most applicable in
+such a scenario ?
+
+A. Top Down estimates
+
+B. Parametric Estimating technique
+C. Bottom Up Estimating
+
+D. Analogous Estimation
+
+
+B is the correct answer.
+
+Here the correct answer would be Parametric Estimation - this is because the cost per unit is
+readily available. Parametric estimation uses the relationship between variables to determine
+cost or duration It calculates the cost or duration of the unit and also determines the number
+of units required which helps in calculating the cost / duration of the project.
+
+
+
+
+Question - 96
+
+A data point in a control chart that requires investigation is called:
+
+A. a special cause
+
+B. a quality fault
+
+C. a rule of seven
+
+D. a rule of five
+
+
+A is the correct answer.
+
+A data point in a control chart that requires investigation is called a special cause.
+
+
+
+
+Question - 97
+
+A Heuristics is best described as :
+
+A. thumb rule.
+
+B. activity diagram.
+
+C. workaround.
+
+D. control tool.
+
+
+A is the correct answer.
+A is the correct answer. Heuristics is thumb rule. Examples are cost per square feet etc.
+
+
+
+
+Question - 98
+
+You have successfully completed a project.You have now been assigned a project which is
+midway into its execution.You have had to take this project due to non availability of the
+current project manager due to health.This is a complex project involving multiple
+contractors and teams at various geographical locations.You decide to look up the
+requirements of the types of reports and frequency of sending them.Where would you find
+this information?
+
+A. Project Management Plan
+
+B. Scope Management Plan
+
+C. Communication Management Plan
+
+D. Stakeholder Analysis
+
+
+C is the correct answer.
+
+The correct answer is Communication Management Plan.This Plan provides information such
+as frequency of communication , type of communication , who is responsible for
+communication.Hence this is the correct answer.
+
+
+
+
+Question - 99
+
+You are managing a project and to ensure things run smoothly - you have decided to provide
+project information periodically to all the stakeholders.You have decided that you would
+report against the baselines for scope , cost and schedule.Which of the following would be
+the best choice ?
+
+A. Performance reporting
+
+B. Status reports
+
+C. Forecasts
+
+D. Risk Register
+
+
+A is the correct answer.
+The best choice is Performance reporting with respect to the triple constraints -
+Scope,Schedule and Cost.Forecasts are future projections while risk register deals with risks
+which are not the right options.While status reports could be an option the best answer is
+Performance reporting.
+
+
+
+
+Question - 100
+
+You have replaced a project manager on a project that is already in the execution phase.The
+project is behind schedule and you have been specifically brought in to ensure the project
+meets its schedule.You decide to review the schedule network diagram created by the earlier
+project manager and you realize that the project is 3 weeks behind schedule. After reviewing
+the activities and the network diagram you decide to Crash the schedule.So this means you
+
+A. Decrease the scope of the project after discussing with the sponsors
+
+B. Add additional resources to the activities on the Critical path
+
+C. Perform activities in Parallel to decrease the schedule
+
+D. Discuss with the sponsors and explain how it is not going to be possible to meet the
+schedule.
+
+
+B is the correct answer.
+
+Option B is the correct answer.Crashing is a technique used to shorten the schedule by adding
+resources. Option A and D are clearly not correct - and Option C is really an example of Fast
+Tracking.
+
+
+
+
+Question - 101
+
+Which of the following best describes the assumptions made by Herzberg's Hygiene theory ?
+
+A. Employees are basically lazy and need to be monitored
+
+B. Hygiene factors help avoid job dis-satisfaction and lead to motivated employees
+
+C. Hygiene factors help avoid job dis-satisfaction and their absence could create
+dissatisfaction but it will not lead to motivated employees
+
+D. Job content factors have no influence in keeping people happy on the job and motivated.
+
+
+C is the correct answer.
+According to Herzberg Hygiene theory - certain factors exist termed as 'Hygiene factors' -
+which if not present can lead to dis-satisfaction - so to avoid dis-satisfaction they must be
+present.However these 'Hygiene factors' will not directly lead to employee satisfaction - they
+would only avoid dis-satisfaction. Option A is clearly unrelated while Option B is incorrect
+since Hygiene factors do not contribute to employee motivation. Option C is correct.
+Herzberg's theory also states that what motivates employees is the Job content - hence Option
+D is incorrect since it states the opposite.
+
+
+
+
+Question - 102
+
+You are managing a software development project in the banking domain.Things have been
+proceeding as per plan - but with the economic meltdown the client has had to abruptly
+shutdown the project due to lack of funds to source the projects any longer.As a Project
+manager what is the next thing to do ?
+
+A. Free up project resources so they can be utilized on other tasks
+
+B. As there are very few tasks remaining - get those completed
+
+C. Ensure all project closure procedures are followed and lessons learned are updated
+
+D. Publish work performance reports for the project
+
+
+C is the correct answer.
+
+Project closure procedures must be followed.They must be followed irresepctive of whether
+project was successfully completed or if it was terminated - we always follow closure
+procedures - so in this case the Project Manager should choose option C
+
+
+
+
+Question - 103
+
+Which of the following statements is true regarding Critical Path?
+
+A. There can be more than one Critical Path in a Schedule Network Diagram
+
+B. Critical Paths generally always have negative float
+
+C. Activities on Critical Path have positive float
+
+D. Critical Path has duration less than the non critical paths.
+
+
+A is the correct answer.
+The correct answer is Option A .Generally activities on Critical Path have Zero float.Critical
+Path is the one which has the longest duration - so options B,C and D are not correct.You can
+always have more than one Critical Path in a project.
+
+
+
+
+Question - 104
+
+Your company policy allows accepting gifts from customers within certain limit. Your
+customer is giving you a gift which is beyond the limit of your company policy. You have
+given a gift to the customer's representative already which has similar in value. What should
+you do?
+
+A. Accept it and don't tell anyone.
+
+B. Contact your company's senior management and ask for assistance.
+
+C. Ask your customer about company policy.
+
+D. Refuse it.
+
+
+B is the correct answer.
+
+Best option is to contact your company's senior management and ask for assistance.
+
+
+
+
+Question - 105
+
+You are responsible for a project with high risks particularly during the early phases - your
+sponsor has asked for performance reports on a monthly basis. At the end of the first month
+you report a CPI greater than 1 and also the SPI greater than 1. What would this mean ?
+
+A. The project is behind schedule and over budget
+
+B. The project is ahead of schedule and under budget
+
+C. The project is ahead of schedule but over budget
+
+D. The project is behind schedule but under budget
+
+
+B is the correct answer.
+
+The correct answer is B - SPI greater than 1 indicates the project is ahead of schedule while a
+value less than 1 indicates the project is behind schedule. CPI value greater than 1 inidcates
+project is under budget while a value less than 1 indicates the project is over budget.
+Question - 106
+
+You are the project manager of a software project. Your team member want to make
+technical changes to an activity which will add more time to that activity. What should you
+do ?
+
+A. Check if the activity is on critical path
+
+B. Allow team members to change the activity
+
+C. Report to senior management
+
+D. Ignore change in activities.
+
+
+A is the correct answer.
+
+A is the correct answer. Check the activity if it is on critical path is the best option.
+
+
+
+
+Question - 107
+
+You have replaced an earlier project manager.The project is already in its third month of
+execution.You need to determine if the project is ahead or behind schedule.What would be
+the BEST source of this information ?
+
+A. Work performance data
+
+B. Work performance Measurement
+
+C. Project Management software
+
+D. Pareto Chart
+
+
+B is the correct answer.
+
+Work performance measurement provides details of lanned Vs actual values which helps in
+determining the health of the project .Work performance data is the at actuals information
+that helps in measuring performance.Project management software helps facilitate track data
+while Pareto chart is used in Quality Control.The correct answer is Option B - Work
+performance Measurement
+Question - 108
+
+Communication can be of the following forms except:
+
+A. Formal and Informal
+
+B. Written and Verbal
+
+C. Precise and Vague
+
+D. Vertical and Horizontal
+
+
+C is the correct answer.
+
+Precise and Vague is not a form of communication while all others are.
+
+
+
+
+Question - 109
+
+With a lot of expertize in project management - many of your companies co managers consult
+you for advise and inputs.One of your colleagues who is relatively inexperienced in
+managing projects wants to compare the project work and measure the deviations - which
+document should he refer to ? Choose the option that BEST answers the question ?
+
+A. He should refer to the Project Management Plan
+
+B. He should refer to the Scope Management Plan
+
+C. He should refer to the Schedule Management Plan
+
+D. He should refer to the Performance Measurement Baseline
+
+
+D is the correct answer.
+
+There are multiple options that seem correct - however they are partially correct.The scope
+baseline and schedule baseline are not the only baselines against which project performance
+is measured so options B and C are definitely not the best options.The project management
+plan contains details of all the baselines - but a more specific plan to refer to is the
+Performance Measurement Baseline.It contains details of the scope , schedule and cost
+baseline and it could also contain quality and technical parameters.While the project
+management plan includes he baselines - it is actually the Performance Measurement
+Baseline which is used for comparing performances and the Performance Measurement
+Baseline is a part of the Project Management Plan.So the BEST answer is option D
+Question - 110
+
+As a manager on a project your key outlook is to ensure that the project delivers within the
+scheduled timelines with minimal rework and customer delight.For some time now the
+project work is proceeding smoothly with a CPI and SPI a perfect 1.One of your team
+members approaches you and indicates that she might possibly need a long vacation on
+personal grounds.She indicates this could possibly occur in two months from now.You look
+up the schedule and as luck would have it - this team member happens to be scheduled to
+execute activities which are on the critical path - and her absence in two months time would
+cause a delay in schedule.You decide to take some action and ask the team member to start
+regular knowledge transfers to a couple of trainees.Your thought is though the trainees would
+be relatively inexperienced they would more than make up for it with two people rather than
+one person to perform these tasks should this team member need to go on leave.What did you
+just do ?
+
+A. Mitigate the risk
+
+B. Avoid the risk
+
+C. Transfer the risk
+
+D. Exploit the risk
+
+
+A is the correct answer.
+
+You have mitigated the risk where by asking for the trainees to be trained you have created a
+Risk response strategy.Should this team member go on leave the trainees would execute the
+task.So you have not avoided the risk.Again there is no question of exploiting the risk as this
+is not a positive risk.This is not a case of Risk avoidance either - so the correct answer is Risk
+Mitigation - option A.
+
+
+
+
+Question - 111
+
+You are a project manager of Software Product company. After a person is hired, you come
+to know that many of this person's ideas were developed by a competitor company. Are you
+going to implement the same ideas?
+
+A. Accept the new ideas.
+
+B. Ignore the ideas because it may be a violation of the code of conduct.
+
+C. Ask to sign NDA.
+D. Tell the person that he should not mention that the ideas came from another company.
+
+
+A is the correct answer.
+
+Unless the employee has signed the NDA with his or her previous organization, there is no
+obligation for him or her not to share knowledge that was gained while working for the
+competitor.
+
+
+
+
+Question - 112
+
+A product description of a project can help in creating procurement details. Which one of the
+following best describes the product description?
+
+A. A product description defines the contracted work based on the requirements of the
+customer
+
+B. A product description defines the contracted work
+
+C. A product description defines the requirements for the contract work
+
+D. All of the above
+
+
+A is the correct answer.
+
+A product description defines the contracted work based on the requirements of the customer.
+
+
+
+
+Question - 113
+
+As a project manager of a project , you have just completed Schedule network diagram.
+Which of the following schedule management activities have you completed?
+
+A. Estimate Activity Resources
+
+B. Sequence Activities
+
+C. Estimate Activity Durations
+
+D. Develop Schedule
+
+
+B is the correct answer.
+B is the correct answer. Schedule network diagram is an output of Sequence Activities.
+
+
+
+
+Question - 114
+
+You are in the process of making a cost estimate for a large prestigious project. You decide to
+use the Three Point Estimation technique with Triangular Distribution. Based on your
+analysis and understanding you are confident that the project would be completed with a total
+cost of 108,000 $.You also estimate that a best case estimate would be 90000 $ while a worst
+case scenario would result in the costs incurred to shoot up to 138000 USD. What would the
+Three point Cost estimate be using Triangular Distribution ?
+
+A. 112000 $
+
+B. 110000 $
+
+C. 28000 $
+
+D. None of the above
+
+
+A is the correct answer.
+
+The correct answer is A.The question states we should use Three point estimate using
+triangular distribution. The formula for this estimation technique is a + b + c / 3 where a =
+Most Likely estimate , b = Estimate based on analysis of the Best case scenario and c =
+Estimate based on analysis of the Worst case scenario. So the Three point estimate using
+Triangular distribution is 108000 + 90000 + 138000 / 3 = 336000/3 = 112000 $
+
+
+
+
+Question - 115
+
+Midway through the project as a Manager you are performing Earned Value Methodology to
+report performance. Based on your calculations you realize that the initial plan is no longer
+valid.However you still need to provide an EAC - what is the best course of action ?
+
+A. Calculate EAC as EAC = BAC / CPI
+
+B. Calculate EAC as EAC = AC + BAC - EV
+
+C. Calculate EAC as EAC = AC + (BAC - EV/(CPI * SPI )
+
+D. Calculate EAC as EAC = AC + Bottom up Estimate
+
+
+D is the correct answer.
+The correct answer is D - Option A is to be used if past CPI is expected to continue.Option B
+is to be used if future work is going to be performed at the planned rate.Option C is to be
+used if both CPI and SPI influence remaining work. Option D is to be used when the initial
+plan is no longer valid - which is the case here.
+
+
+
+
+Question - 116
+
+As a manager on a project you have identified and created the WBS and WBS
+Dictionary.You also plan to ensure that each deliverable gets the blessings of your
+stakeholders and sponsors.Which process are you planning to perform?
+
+A. Scope Verification
+
+B. Perform Quality Control
+
+C. Control Scope
+
+D. Define Scope
+
+
+A is the correct answer.
+
+The correct answer is Scope Verification which deals with verifying that what was delivered
+was what was required.
+
+
+
+
+Question - 117
+
+You have received a number of seller responses for contracting work related to setting up
+office cubicles.One of the bids received happens to be from a very good friend of yours.You
+know she has done good work in the past.What should be the BEST course of action ?
+
+A. Do nothing and let the seller selection proceed
+
+B. Ensure that your friend gets the contract as she has done good work in the past
+
+C. Inform your company regarding the conflict of interest and disqualify your friend
+
+D. Inform your company regarding the conflict of interest and let selection of seller happen
+with no prejudice
+
+
+D is the correct answer.
+
+Explanation.
+Question - 118
+
+In order to determine the details of the work to be performed in work packages - which of the
+following can be used ?
+
+A. WBS
+
+B. WBS Dictionary
+
+C. Control Account
+
+D. Work Packages
+
+
+B is the correct answer.
+
+The correct answer is Option B - WBS Dictionary.It provides details such as description of
+work to be done for each work package , any schedule milestones , statement of work.It is
+also used to prevent scope creep.
+
+
+
+
+Question - 119
+
+You need to provide estimates for activities on the project.You and your team discuss and
+conclude that as detailed information is not yet available - the best option would be to use
+Parametric Estimates.The various ways to create Parametric Estimates are:
+
+A. Critical Path Method
+
+B. One Time Estimate
+
+C. Regression Analysis and Learning Curve
+
+D. Monte Carlo Analysis
+
+
+C is the correct answer.
+
+The correct answer is C - Regression analysis and Learning Curve are ways of creating a
+Parametric Estimate.Regression analysis is also known as Scatter Diagram.Scatter diagrams
+consist of a graphical representation of two variables from a data set.They are used to detect
+the corelation between the variables being examined.Learning curve takes into consideration
+that if the nature of the work is repetitive - the person will perform subsequent work faster as
+efficiency improves.Option A has nothing to do with Parametric Estimates while Option D
+though is an estimation technique - it uses simulation and three time estimates - so it is not
+the correct answer.
+
+
+
+
+Question - 120
+
+Which of the following best describes the role of a project sponsor ?
+
+A. Project Sponsor is responsible for managing the project
+
+B. Project Sponsor is responsible for managing the quality of deliverables
+
+C. Project Sponsor is responsible for providing funding for the project
+
+D. Project Sponsor is responsible for identifying key stakeholders
+
+
+C is the correct answer.
+
+The project sponsor is not responsible for managing the project nor the quality of deliverables
+- it is the role of the project manager.While the sponsor can aid in identifying key
+stakeholders - the key area a sponsor plays a part is in providing funding.The sponsor
+provides funding directly or indirectly and is responsible for approving or denying the
+budget. The project sponsor is also generally the one who approves the Project Charter - but
+that is not mentioned in the question. So the correct answer is Option C
+
+
+
+
+Question - 121
+
+You are a project manager for a project. While reviewing the cost estimates for the project,
+you notice that one of the cost estimates for an element in the WBS is 20% higher than the
+previous project for a very similar work. What should you do next?
+
+A. Accept the estimate.
+
+B. Ask the person responsible about the difference.
+
+C. Ignore it.
+
+D. Reduce the estimate.
+
+
+B is the correct answer.
+
+Best option is to ask the person responsible about the difference and create the most accurate
+estimate that is practical.
+Question - 122
+
+You are the sponsor of a project which has just kicked off.This is an ambitious project to
+build a top of the line 18 hole golf course.Which of the following BEST describes your role
+as a sponsor ?
+
+A. Managing changes to the project
+
+B. Create the Work Performance Baselines
+
+C. Publish Work Performance Reports
+
+D. Publish the approved Project charter
+
+
+D is the correct answer.
+
+The main objective of the sponsor is to create and publish a formally approved project
+charter.While the sponsor can help assist in preventing and managing changes to the project -
+this is the project manager's job.Creating baselines and publishing work performance reports
+is also the job of the project manager - so option D is the correct answer.
+
+
+
+
+Question - 123
+
+As a project manager of a project , you have just completed Schedule network diagram. What
+should you do NEXT in schedule management ?
+
+A. Estimate Activity Resources
+
+B. Sequence Activities
+
+C. Estimate Activity Durations
+
+D. Develop Schedule
+
+
+A is the correct answer.
+
+A is the correct answer. Schedule network diagram is an output of Sequence Activities,
+NEXT process is Estimate Activity Resources.
+Question - 124
+
+The key difference between Work performance data and Work performance Measurement is :
+
+A. There are no differences - both are the same
+
+B. Work performance data is the 'as of now' status of deliverables while Work performance
+measurement is a comparison between planned Vs Actuals
+
+C. Work performance measurement is the 'as of now' status of deliverables while Work
+performance data is a comparison between planned Vs Actuals
+
+D. Work performance data are the planned objectives
+
+
+B is the correct answer.
+
+Work performance data is a key output of 'Direct and Manage Project Work'.The key
+difference between the two is that the Work performance data consists of raw observations
+and measurements DURING activities being performed.It is the 'as of now' status while Work
+performance measurements is used to compare actual performance aganst what was
+planned.The correct answer is Option B
+
+
+
+
+Question - 125
+
+The purpose of a contract is to distribute a reasonable amount of ____________between the
+buyer and seller.
+
+A. Risk
+
+B. Responsibility
+
+C. Reward
+
+D. None
+
+
+A is the correct answer.
+
+A fair contract shares a reasonable amount of risk between the buyer and the seller.
+
+
+
+
+Question - 126
+
+A friend of yours approaches you seeking advice.She indicates she has offers from two
+organizations.Her role in one of the organization is that of a project Co-ordinator while in the
+other organization her role is that of a Project expediter.She is not quite clear of the
+difference between the two roles and seeks your advice.Which of the following statement is
+true ?
+
+A. There is really no difference between the two
+
+B. Project Expediter has no authority and cannot take decisions.Project co-ordinator has some
+authority and decision making authority.
+
+C. Project co-ordinator has no authority and cannot take decisions.Project Expediter has some
+authority and decision making authority.
+
+D. Project expediters are found in projectized organizations and Project co-ordinators are
+found in Functional organizations
+
+
+B is the correct answer.
+
+A project expediter has no authority or decision making ability.A project co-ordinator has
+some amount of authority and some amount of decision making ability.So the correct answer
+is Option B .
+
+
+
+
+Question - 127
+
+If a person desires to excel in his tasks - as per Maslow's Hierarchy of Needs - what type of a
+need is the person exhibiting ?
+
+A. Love or Belonging
+
+B. Physiological
+
+C. Self-actualization
+
+D. Safety
+
+
+C is the correct answer.
+
+Option C is the correct answer. When a person desires to exceed or excel in their tasks - it is
+considered as the highest level of need where the person now wants to realize their full
+potential - which is Self-actualization
+
+
+
+
+Question - 128
+According to Theory Y style of management - which of the following are correct assumptions
+?
+
+A. Employees are inherently lazy and not motivated.
+
+B. Employees need to be closely supervised and comprehensive systems of controls
+developed.
+
+C. Employees are only interested in self benefits and money.
+
+D. Employees are trustworthy and are motivated by doing a good job.
+
+
+D is the correct answer.
+
+Option D is the correct choice. Theory Y believes positively about employees and only
+option D reflects a positive attitude and belief. Option A,B and C are not the correct answer
+as they are the opposite of belief in employees - they indicates lack of trust in an employee
+which is not a correct assumption in the Theory Y style of management.
+
+
+
+
+Question - 129
+
+Conformance to specifications document is a description of:
+
+A. Quality
+
+B. Scope
+
+C. Integration
+
+D. None of the above
+
+
+A is the correct answer.
+
+Quality on a project means that you are conforming to a standard that is set before you start
+the project.
+
+
+
+
+Question - 130
+
+You are the project manager of a marketing project and need to purchase some equipment.
+The accounting department needs a unilateral contract from you. Accounting is referring to
+which of the following:
+A. Legal Binding Contract
+
+B. Purchase Order
+
+C. Statement of Work
+
+D. WBS
+
+
+B is the correct answer.
+
+A unilateral contract is simply a purchase order.
+
+
+
+
+Question - 131
+
+You are out for lunch with a fellow project manager.She is in charge of a project that deals
+with laying out electrical cables across two towns.As you understand the plan of the layout -
+you realize that the cabling would cover a neighborhood with a history of criminal
+problems.You advise your fellow team manager that it would be prudent to insure the copper
+cables through a theft insurance.You also advise her regarding which insurance companies
+would give her the best insurance covers against theft.What risk response strategy did you
+just adopt?
+
+A. Risk mitigation
+
+B. Risk avoidance
+
+C. Risk transfer
+
+D. Risk acceptance
+
+
+C is the correct answer.
+
+This is an example of Risk transfer where you have advised your fellow manager to insure
+against theft through insurance.Note that this does not eliminate the risk rather the risk is
+simply to be borne by the insurance company.It is also worthwhile to note that the transfer of
+negative risks comes with a premium to be paid to the party responsible for handling the
+risk.In this case the insurance company would need to be paid a premium for bearing this risk
+
+
+
+
+Question - 132
+
+To Complete Performance Index is used to determine ?
+A. When the project would be complete
+
+B. To determine the feasibility of the project
+
+C. To identify the risks in the project
+
+D. The cost performance required to meet certain objectives
+
+
+D is the correct answer.
+
+The correct answer is - D . TCPI is a measure of the ratio of the work remaining to the funds
+remaining.
+
+
+
+
+Question - 133
+
+You are managing a project and based on risk identification - you feel very confident that the
+project should run smoothly.The next day the lead architect indicates a risk which was not
+envisioned.He indicates a 10% possibility of the risk occurring and the effort involved of
+choosing an alternate path worth 2000 USD.The side effect of alernate path implementation
+is that a lot of testing efforts would get reduced worth 4500 USD and the possibility being
+30%.What would be the EMV ?
+
+A. -$200
+
+B. $1350
+
+C. $1150
+
+D. $1550
+
+
+C is the correct answer.
+
+The correct answer is $1150.In the case of the rework effort the EMV is -$200.The EMV of
+the side effect is $1350.So the total EMV is $1150.
+
+
+
+
+Question - 134
+
+An estimate is required for a new project of an R and D nature - and it has been decided to
+create the estimates using WBS - with an emphasis on accuracy of the estimates.Your project
+manager also indicates sufficient time is being made available to provide the estimates - what
+would be the best estimation approach in this case ?
+A. Parametric Estimation approach
+
+B. Analogous Estimation approach
+
+C. Top Down Approach
+
+D. Bottom Up Approach
+
+
+D is the correct answer.
+
+Parametric and Analogous are clearly not the right choices.Being a new project - we do not
+have any historical data to rely on - so Analogous estimation is not an option.We also dont
+have any data of costs per unit - so Parametric estimation is also not an option.Now between
+Top down and Bottom up - both of these approaches use the WBS to come up with the
+estimates.With Top down we start with the high level and then drill down into the lower
+levels. Bottom-up estimates are more accurate as compared to Top down.Bottom up is also a
+more expensive and time-consuming type of estimate - however the question clearly indicates
+that time is not a concern - so the correct answer is Bottom up approach. Top down approach
+is used only if we have enough historical information on the project which is not true.
+
+
+
+
+Question - 135
+
+Which of the following could not be provided with Activity Attributes
+
+A. Provide details regarding predecessor and successor activities.
+
+B. Provide details regarding Leads and Lags
+
+C. Provide details regarding who and where the activity will be performed
+
+D. Provide details regarding root causes of issues
+
+
+D is the correct answer.
+
+All the options are correct - except option D Activity attributes do not provide details of root
+causes of issues.
+
+
+
+
+Question - 136
+
+As a project manager you understand the importance of identifying all relevant stakeholders ,
+their interest and influence and their needs and expectations.You have been assigned to
+handle a large construction project.You decide to do a thorough stakeholder analysis and you
+identify Laura and Sean.Based on your interactions and analysis - you know that both Sean
+and Laura are low in the pecking order so they do not wield any significant authority or
+power.However where it differs is in their interest in the project.Laura has a lot of interest
+while Sean is disinterested . You decide to plot them in a Power / Interest grid to help
+determine how you would manage these stakeholders. Which of the following is the best
+approach to handle these two stakeholders ?
+
+A. Both Sean and Laura should be Kept Informed.
+
+B. Sean should be Monitored and Laura should be Kept informed.
+
+C. Both Sean and Laura should be Monitored.
+
+D. Sean should be Kept informed and Laura should be Monitored.
+
+
+B is the correct answer.
+
+Both Sean and Laura do not wield a lot of power and authority .However the differentiator
+seems to be their level of interest.While Sean is disinterested Laura has a high level of
+interest in the project.Stakeholders who have a high level of interest but who wield
+insignificant authority or power should be Kept informed - in this case Laura. Stakeholders
+who have a low level of interest and who wield insignificant authority or power should be
+Monitored - in this case Kelly.The correct answer being - Option B
+
+
+
+
+Question - 137
+
+You are in charge of managing a software development project which is related to
+simulations for driving racing cars.During Quality Assurance - a number of issues have been
+reported in the air tunnel modelling module.On deeper analysis - it is found that many of the
+issues were due to not understanding the requirements clearly and now additional time would
+be expended to fix the issues identified. This is a good example of :
+
+A. Corrective Action
+
+B. Preventive Action
+
+C. Defect Repair
+
+D. Quality Assurance
+
+
+C is the correct answer.
+
+The question is intended to cause a confusion between preventive or corrective
+action.However the question does not state any example of any steps taken proactively so
+Preventive Action is not the right answer.If we were to consider Corrective action - It is a
+future response to the defect repair process or the correction, so that the cause of error or non-
+conformity will not occur again - which the above question does not state - so this is not an
+example of Corrective action.As is obvious the question does not state anything other than
+reporting defects which is really Quality Control so again it is not the right answer.Here the
+straightforward answer is option C - Defect repair.
+
+
+
+
+Question - 138
+
+Which of the following is NOT part of a quality plan?
+
+A. Benchmarking
+
+B. Cost of Quality
+
+C. Design of experiments
+
+D. Quality audits
+
+
+D is the correct answer.
+
+Quality audits are part of a Manage Quality process.
+
+
+
+
+Question - 139
+
+As a senior member in the executive management team - you have tasked project managers
+within your team to provide cost estimates for a huge project. You easily forsee the cost
+estimate of the project to run into millions of dollars.Along with the cost estimate - you are
+also expecting the Basis of estimates. What would you expect to be included in the
+documentation for Basis of estimates ?
+
+A. Basis of estimate,assumptions,known constraints,range of estimate,confidence level
+
+B. Cost at unit level and confidence level
+
+C. WBS
+
+D. None of the above
+
+
+A is the correct answer.
+The correct answer here is A which states all the necessary details to be provided as the Basis
+of estimates.
+
+
+
+
+Question - 140
+
+Your team has just bagged a software development project.The executive management is
+very pleased as this is a very prestigious project.However you are a little worried considering
+the complex nature of the project.You decide to try and identify the possible risks.You get all
+relevant stakeholders together and conduct mammoth discussions.Together you have come
+up with a number of risks.However based on your experience - you still feel that not all the
+risks have been identified.You decide to set aside some budget for the risks that you have not
+identified but are sure you will encounter.Where does this budget come from?
+
+A. Cost Management Plan
+
+B. Cost Baseline
+
+C. Contingency Reserves
+
+D. Management Reserve
+
+
+D is the correct answer.
+
+The type of risk here is an unknown risk.For known risks risk responses can be proactively
+planned for.For the known risks where we cannot plan proactively - we set aside a reserve
+called Contingency Reserves.For unknwon risks we set aside a Management Reserve.Cost
+management Plan deals with how you will manage costs on your project and Cost baseline is
+the baselined cost expected to be expended on the project.
+
+
+
+
+Question - 141
+
+You have been assigned to manage a project that deals with setting up a railway line
+connecting two cities.The project is complex with a lot of contracting involved.You and
+experts in your organization are evaluating if the rail line alignment machinery should be
+purchased outright or if it would be better to lease.The cost of leasing the equipment is 1200
+$ per day while the cost of an outright purchase is 96000 $ and a daily cost of 200 $.The
+duration of laying out the railway lines is scheduled to be an activity duration of 150
+days.Should you purchase the machinery or be leased - which option would be more
+economical ?
+
+A. Lease the machinery as it will be cheaper by 84000 USD
+
+B. Purchase the machinery as it its usage beyond the 80th day would be more cost effective to
+purchase rather than lease
+
+C. Purchase the machinery as it its usage beyond the 96th day would be more cost effective to
+purchase rather than lease
+
+D. Lease the machinery as it will be cheaper by 36000 USD
+
+
+C is the correct answer.
+
+The question is actually looking for a simple mathematical formula!.Do not get flustered by
+all the numbers. The activity duration is 150 Days .So cost of leasing is 150 * 1200 = 180000
+, while cost of an outright purchase is 96000 + 200 * 150 = 96000 + 30000 = 126000 USD.
+So definitely leasing is not cheaper and purchasing the machinery is the better option. Now
+what is the breakeven point of a purchase - on the 96th day of usage of the machinery - the
+cost of purchase incurred is 115200 $ which is exactly the cost incurred if it were leased so
+96th day is the break even point and hence the correct answer is option C. Take a breather -
+relax and digest the details - they are not as hard as they look !
+
+
+
+
+Question - 142
+
+An activity has an Early Start(ES) of 5 days and Late Start of 16 days.What is the activity's
+float ?
+
+A. 11 days
+
+B. 21 days
+
+C. 5 days
+
+D. 16 days
+
+
+A is the correct answer.
+
+A is the correct answer. Activity float = Late Start - Early Start = 16-5 = 11 days
+
+
+
+
+Question - 143
+
+Which of the following statements are not true regarding WBS ?
+
+A. Provides a graphical picture of the hierarchy of the project.
+
+B. Identifies all of the work that needs to be performed.
+C. Can help facilitate in estimating costs and schedule.
+
+D. Helps identify depenencies
+
+
+D is the correct answer.
+
+The correct answer is D as WBS does not help identify dependencies.
+
+
+
+
+Question - 144
+
+You are in charge of a project that is running behind schedule.Your lead architect approaches
+you and indicates that should he introduce a change - the project could possibly catch up on
+lost time.What should be the FIRST thing you should do?
+
+A. Its a great suggestion which can bring the project back on schedule - so go ahead and
+implement it.
+
+B. Ascertain the impact of the change to your cost and scope and then write a change request
+and get a formal approval
+
+C. Write a change request and get a formal approval before making any changes
+
+D. Flatly refuse to make any changes
+
+
+B is the correct answer.
+
+Both options of refusing to make the change outright or making the change immediately
+without analyzing are incorrect - so clearly options A and D are not the right choices.The
+question asks about what you should do first - so though writing a change request and getting
+an approval is logical - even better is to first ascertain the impact of the change.You already
+know that the change can reduce the schedule but you should also try and find the impact of
+this change to your other constraints - which are scope and cost - so once you have analyzed
+the impact of this change - you can now submit a change request and seek approval - hence
+option B is the BEST course of action.
+
+
+
+
+Question - 145
+
+You are in a very happy state today as you have completed all the deliverables.This was a
+complex project involving a lot of challenges - but with good management and a motivated
+team things have been completed successfully.What should you do next as a project manager
+?
+A. Perform Quality Control
+
+B. Update lessons learned
+
+C. Verify scope
+
+D. Disband the team
+
+
+B is the correct answer.
+
+The question is looking for details related to the closing process group.Scope verification is
+performed during the monitoring and controlling process group.So is the case with Perform
+Quality Control.One of the most important things to do during project closure is to create the
+lessons learnt prior to disbanding the team.The correct answer is option B
+
+
+
+
+Question - 146
+
+Your company has won a prestigious project which deals with building software to be used
+on spaceships landing on the moon.After building the schedule network diagram - you
+identify the critical path and also a number of Near-Critical Paths.What does this mean with
+respect to Risks related to Project Schedule ?
+
+A. The project is at high risk of meeting its schedule considering additional near critical paths
+
+B. The project has no risks of meeting its schedule considering additional near critical paths
+
+C. Near Critical Path will have no impact on the schedule - hence no risks at all
+
+D. The Near Critical Path activities have a lot of Float - so there is no fear of not meeting the
+project completion.
+
+
+A is the correct answer.
+
+The correct answer is A - greater the number of near critical paths greater the risk of the
+project not meeting its scheduled completion dates.This is because the Near Critical Path
+activities will have very little float - so thereby hardly any flexibility - so any slippages in
+these tasks - in addition to tasks on the Critical Path can lead to schedule slippage.This is why
+Options B , C and D are incorrect.
+
+
+
+
+Question - 147
+You and and your team have just created a schedule network diagram.You have come up
+with the estimates and have defined the durations and subsequently have identified the
+Critical Path.You now decide to do a 'Forward Pass' through the Schedule Network Diagram
+- what would you be calculating ?
+
+A. The Early Start and Early Finish for each activity
+
+B. The latest start and latest finish for each activity
+
+C. The duration of the other paths
+
+D. The duration of the critical path
+
+
+A is the correct answer.
+
+The correct answer is - A.Option C and D are incorrect as the Forward Pass is not used to
+calculate the duration.Infact based on duration the critical path is calculated.Option B talks
+about Late Start and Late Finish - which are calculated using Backward Pass.Using 'Forward
+Pass' - we calculate the Early Start and Early Finish of all the activities in the network
+diagram.
+
+
+
+
+Question - 148
+
+You and your team have done extensive brainstorming and discussions.You have also looked
+up the Organizations process assets and have come up with an exhaustive list of risks.You
+and your team members feel fairly confident now that you know all the risks.You decide to
+priorotize the risks and only focus on the high priority ones.A team member indicates that a
+large number of risks have very low priority.She suggests we simply ignore them.You
+disagree and decide to maintain a list of such low priority risks.Where will you maintain
+these low priority risks ?
+
+A. Risk Register
+
+B. Risk Management Plan
+
+C. Watch List
+
+D. Issue Log
+
+
+C is the correct answer.
+
+The risks have been identified - in the Risk register.Based on prioritization risk priorities are
+also updated in the risk register.All risks which are deemed low on priority though
+maintained in the Risk Register are maintained in the Watch List specifically.The Risk
+Management Plan and the Issue Log are not meant to note or log risks - so the correct answer
+is Watch List.
+
+
+
+
+Question - 149
+
+All of the following are false regarding the project scope statement:
+
+A. Describes the projects deliverables and the work required to create these deliverables.
+
+B. Project scope statement is expanded from the Preliminary Project Scope Statement.
+
+C. It defines what is in scope and what is not in scope.
+
+D. It defines the Project's product acceptance criteria.
+
+
+D is the correct answer.
+
+All the options except option D are true regarding the project scope statement.The acceptance
+criteria are not defined in the Project Scope Statement.Rather they are taken care of in the
+Scope verification process.
+
+
+
+
+Question - 150
+
+A software development project has been awarded to one of the many vendors.Your company
+and the vendor have agreed to build this project using the Waterfall Methodology. You
+decide to check with the progress regarding when development will start. The Vendor
+informs you that the actual Development can only start after completion of the Design.Which
+type of relationship best describes the dependency between Design and actual Development ?
+
+A. Finish-to-Finish
+
+B. Finish-to-Start
+
+C. Start-to-Start
+
+D. Start-to-Finish
+
+
+B is the correct answer.
+
+The correct answer is Option B - Finish-to-Start which means that the Successor Activity
+cannot start without the Predecessor activity completing. In this case the Design is the
+Predecessor activity and Development is the Successor Activity. So here Development (
+Successor Activity ) cannot start without completion of Design (Predecessor Activity)
+
+
+
+
+Question - 151
+
+Your friend who works as a project manager in a pharmaceutical company meets you over
+dinner.You see a drastic change in his temperament as compared to when you last met
+him.He seems dejected and complains that in his present organization - as a project manager -
+he has almost no authority and hardly any decision making ability.What kind of an
+organizational structure does your friend work in ?
+
+A. A Product organization
+
+B. A Functional Organizational Structure
+
+C. A Strong Matrix Organizational Structure
+
+D. A Projectized Organizational Structure
+
+
+B is the correct answer.
+
+Your friend works in a Functional Organizational Structure.In such an organizational
+structure all the power and authority resides with the Functional Manager.Such organizations
+are hierarchial in nature - where each employee has one clear superior.People are grouped by
+specialities ( Functional ) - Example - Mechanical , Accounts , Marketing etc.These
+departments work independently of each other.So the correct answer is option B - Functional
+Organization
+
+
+
+
+Question - 152
+
+A weighted average duration estimate to calculate duration is called :
+
+A. PERT
+
+B. CPM
+
+C. GERT
+
+D. pareto chart
+
+
+A is the correct answer.
+A is the correct answer. Program Evaluation and Review Technique (PERT): Uses a
+weighted average duration estimate to calculate duration. Uses the probability of an estimate's
+accuracy. Expected Time = (Low + 4*Medium + High) / 6
+
+
+
+
+Question - 153
+
+Which type of relationship is often used in Precedence Diagramming Method ( PDM ) ?
+
+A. Finish-to-Finish
+
+B. Finish-to-Start
+
+C. Start-to-Start
+
+D. Start-to-Finish
+
+
+B is the correct answer.
+
+Option B is the correct answer - Finish-to-Start. This means that Successor Activity cannot
+happen till Predecessor Activity completes.
+
+
+
+
+Question - 154
+
+You are managing a project related to building a skyscraper.However as per regulations no
+work can be started till the government body has approved and provided necessary
+clearance.This is an example of what kind of dependency ?
+
+A. Mandatory Dependency
+
+B. Hard Logic
+
+C. Discretionary Dependency
+
+D. External Dependency
+
+
+D is the correct answer.
+
+The correct answer is D - this is an externally imposed or mandated dependency. Options A
+and B are both the same and are not the correct choices.
+Question - 155
+
+The primary benefit of meeting Quality Requirements are ( Choose all that apply )
+
+A. Less Rework,Higher productivity,Lower costs,Increased stakeholder satisfaction,Increased
+profitability.
+
+B. Decreased productivity due to time spent on Quality Requirements.
+
+C. Increased costs due to rework.
+
+D. Decreased stakeholder satisfaction.
+
+
+A is the correct answer.
+
+Option A is the correct answer - All of the details stated are correct benefits of meeting
+Quality Requirements.By doing a cost benefit analysis of each quality activity - we can
+compare the cost of Quality with expected benefit.Options B , C and D infact are results of
+poor Quality.
+
+
+
+
+Question - 156
+
+Which of the following statements is TRUE regarding Fixed Price Contract
+
+A. The buyer has the least risk in this type of contract if scope is clearly defined
+
+B. Changes can be made in scope by the buyer with no impact to cost
+
+C. Should be the choice of contract when you need work to begin right away
+
+D. All of the above
+
+
+A is the correct answer.
+
+Did you choose option D ? - if so read again - which options sound incorrect ?.Changes to
+scope cannot be made without a cost implication - infact this is best applicable when the
+seller clearly defines the scope.If work needs to begin right away the contract type should be
+Time and Money - not Fixed price since you may not have everything clearly defined. So the
+right answer is option A.
+
+
+
+
+Question - 157
+Control chart helps:
+
+A. determine if the process is "in control"
+
+B. how various elements of a system are interrelated
+
+C. showS trends in a process over time
+
+D. shows the pattern of a relationship between two variables
+
+
+A is the correct answer.
+
+Control Charts: Control charts are graphic display of the results over a time of a process.
+They are used to determine if the process is "in control".
+
+
+
+
+Question - 158
+
+You are managing a project that is responsible for setting up an alcohol distillery.Your team
+is in its eighth month of execution.One of the vendors informs you that the agitators delivery
+is going to be delayed by a week .You look up the project management plan and the schedule
+baselines and decide to set up all the reactors first.Based on your analysis by moving tasks
+around you see that there would be no impact to any of the performance measurement
+baselines.What should you do next ?
+
+A. Go ahead and execute the rescheduled tasks as there is no impact to any of the baselines
+
+B. Write up a change request and submit to change control for approval
+
+C. Analyze the impact of the change to the triple constraints and then submit a change request
+
+D. Do nothing as this would cause changes to the baselines
+
+
+A is the correct answer.
+
+Be careful and read carefully regarding the situation you are beaing asked to evaluate.In this
+case the change is not going to impact any of the baselines.In such cases the project manager
+has the authority to make changes to the project if there is no impact to the baselines.This is
+one condition where changes can be made without undergoing change control - but note that
+this is done after ensuring that there is no impact to the baselines - so the correct answer is
+option A
+Question - 159
+
+Which of the following statements are true regarding Control Account ?
+
+A. It is used as a Tool and Technique in Activity Definition process.
+
+B. Used to estimate cost at a level lower than the work package.
+
+C. Used to control costs of the project.
+
+D. Used in Integrated Change Control.
+
+
+A is the correct answer.
+
+Control Accounts are used to provide a cost estimate at a level higher than the work
+package.They are used a s a technique in activity definition process.They are not used to
+control costs of the project and neither in Integrated change control.So the correct answer is
+option A.
+
+
+
+
+Question - 160
+
+Given a project which reports a CPI less than 1 - you have asked one of your managers to
+generate the TCPI - what formula should the project manager use in this case ?
+
+A. ( BAC - EV ) / ( BAC - AC )
+
+B. ( BAC - EV ) / ( EAC - AC )
+
+C. EV / AC
+
+D. EV / PV
+
+
+B is the correct answer.
+
+The correct answer is Option B - Option A is to be used when the project is within budget - in
+our case the CPI value is less than 1 so - the project is not within budget.Option B is to be
+used when the project is over budget - which is the case for us - so it is the correct formula to
+use. Options C and D are not TCPI formulaes - they are the CPI and SPI calculations so they
+are not the correct choice.
+
+
+
+
+Question - 161
+In which process "meeting" is not used as Tools and Techniques.
+
+A. Identify Stakeholders
+
+B. Plan Stakeholder Engagement
+
+C. Manage Stakeholder Engagement
+
+D. Monitor Stakeholder Engagement
+
+
+C is the correct answer.
+
+"meeting" is not used as Tools and Techniques in Manage Stakeholder Engagement process.
+
+
+
+
+Question - 162
+
+While planning for a project you decide to keep a good grip over project risks.You and your
+team members have come up with the list of possible risks and would now like to prioritize
+them based on their probability and impact.This activity would take place in which process?
+
+A. Perform Qualitative Risk Analysis
+
+B. Perform Quantitative Risk Analysis
+
+C. Risk Identification
+
+D. Risk Register
+
+
+A is the correct answer.
+
+After the Risks are identified - risk prioritization based on impact and probability is done in
+the Qualitative Risk Analysis.The question states that the risks are already identified - so Risk
+Identification is already done.Risk Register is an output of the Risk Identification process -
+there is no such process as Risk Register.Quantitative Risk Analysis deals with assigning a
+numerical value to each risk - so the correct answer is Qualitative Risk Analysis.
+
+
+
+
+Question - 163
+
+Which hierarchical chart shows all the tasks in a list ?
+
+A. RBS
+B. OBS
+
+C. WBS
+
+D. Scope statement
+
+
+C is the correct answer.
+
+C is the correct answer. Work Breakdown Structure shows all the tasks.
+
+
+
+
+Question - 164
+
+Which of the following is NOT part of the Control Quality process?
+
+A. fishbone diagram
+
+B. Quality audits
+
+C. Pareto Diagram
+
+D. Histogram
+
+
+B is the correct answer.
+
+Quality audits are part of the Manage Quality process.
+
+
+
+
+Question - 165
+
+You have a team of project managers reporting to you.Recently a new manager relatively
+inexperienced has joined your team.Considering his level of experience you assign him to a
+small project.Considering low complexity and few stakeholders involved - you envision the
+project to have no surprises or hiccups.You have identified the number of communication
+channels to be only 6.However with increase in scope of work 2 additional stakeholders who
+need to be communciated with join the team.You ask the manager to identify the number of
+communication channels now.The correct answer is :
+
+A. 6
+
+B. 10
+
+C. 8
+D. 15
+
+
+D is the correct answer.
+
+The correct answer is 15.Note that the question provides the initial number of communication
+channels as 6.This means the number of stakeholders are 4.With the addition of two more
+stakeholders - the number of stakeholders would increase to 6.So the number of
+communication channels would be 15.
+
+
+
+
+Question - 166
+
+You are managing a project which is in its first month of execution.In one of the meetings
+with a key stakeholder - the stakeholder asks for some changes to be made in the current
+ongoing work.The stakeholder is asking for the change to be implemented imediately. You
+realize that the changes being asked for will need the Project Management Plan and the
+Scope baseline to be updated which have already been baselined - As a Project manager what
+is the BEST course of action ?
+
+A. Make the changes as they are being asked for by a key stakeholder
+
+B. Analyze the impact of the change to triple constraints
+
+C. Generate a change request and submit to Integrated change control
+
+D. Refuse to make the change as it is a deviation from approved Scope
+
+
+C is the correct answer.
+
+Any changes being asked for or requested to any approved plan need to be formally reviewed
+by the Change Control Board.Option A is not the correct answer as no changes should be
+made without a formal approval from CCB.Option B while sounds like the best choice the
+question states the impact of the change to the scope - so the impact analysis to 'triple
+constraints' is already done - so though option B is the best choice - it is already taken care
+of.Option D is clearly incorrect as any project is bound to have changes and the very purpose
+of change control is to ensure changes are governed and controlled in a systematic manner -
+hence the correct answer is Option C
+
+
+
+
+Question - 167
+
+Comparing target dates with the actual or forecast start and finish dates is called :
+
+A. Variance Analysis
+B. Earned Value
+
+C. Progress Reporting
+
+D. Crashing
+
+
+A is the correct answer.
+
+A is the correct answer. Variance Analysis : Comparing target dates with the actual or
+forecast start and finish dates.
+
+
+
+
+Question - 168
+
+You are in charge of a large software development project.As a part of the project schedule -
+it was planned to complete two core components by the end of October.You are now in
+August and you realize that the project is falling behind schedule.You do a quick review and
+decide that the schedule can be met by adding additional staff to the activities on the critical
+path. This is an example of :
+
+A. Fast Tracking
+
+B. Resource Levelling
+
+C. Crashing
+
+D. Scope Creep
+
+
+C is the correct answer.
+
+The correct answer is option C - As the project is falling behind schedule and deliveries
+cannot be impacted - the manager has chosen to add additional resources to activities on the
+critical path.This is an example of Crashing - NOTE Crashing may result in increased risk
+and rework.
+
+
+
+
+Question - 169
+
+You are in the process of determining how long it would take to complete your project. What
+would be the best tool to use in this case ?
+
+A. Go through the WBS
+B. Go through the Activity List
+
+C. Perform a Root Cause Analysis
+
+D. Use a Network Diagram
+
+
+D is the correct answer.
+
+The correct answer is Option D - A Network Diagram is the best choice to identify the
+Activity Duration.
+
+
+
+
+Question - 170
+
+A project is overbudget when
+
+A. CPI > 1
+
+B. SPI > 1
+
+C. CPI and SPI > 1
+
+D. CPI less than 1
+
+
+D is the correct answer.
+
+The correct answer is D - CPI = EV / AC - so if the EV is less than AC then CPI less than 1
+which means the project is over budget.
+
+
+
+
+Question - 171
+
+You and your team have worked hard and are about to successfully deliver the project.The
+customer is also happy with the deliverables and overall everyone is happy with how the
+project was delivered.You have written up the prformance reviews of each individual in the
+project team .As a Project Manager in your current organization you know that the team will
+get disbanded and in the next project you may not get the same team members who so
+successfully delivered the current project.What kind of Organization Structure does this
+represent?
+
+A. Weak Matrix
+
+B. Balanced Matrix
+C. Projectized
+
+D. Functional
+
+
+C is the correct answer.
+
+This represents a Projectized Organization structure.In a Porjectized organization teams are
+disbanded at the end of the project.In a Functional organization teams report to the Functional
+manager and are never disbanded.They continue in their own departments and continue to
+report to the Functional Manager.A weak matrix organization is very similar to a Functional
+Organization and role of Project Manager is limited.IN a balanced matrix organization staff
+reports to a Project manager and a Functional Manager - in the question above there is no
+mention of a functional manager - so Balanced Matrix is also not the correct option.Hence the
+answer is Projectized - Option C
+
+
+
+
+Question - 172
+
+The process of communicating and working with the stakeholders to meet their expectations,
+address issues and foster appropriate stakeholder engagement in project activities throughout
+project lifecycle is called ____________?
+
+A. Plan Stakeholder Engagement
+
+B. Identify Stakeholders
+
+C. Manage Stakeholder Engagement
+
+D. Monitor Stakeholder Engagement
+
+
+C is the correct answer.
+
+The process of communicating and working with the stakeholders to meet their expectations,
+address issues and foster appropriate stakeholder engagement in project activities throughout
+project lifecycle is called Manage Stakeholder Engagement
+
+
+
+
+Question - 173
+
+Choose all that are true regarding Management Reserves and Contingency Reserves
+
+A. Management reserves are part of Cost Baseline but Contingency reserves are not
+
+B. Contingency Reserves are for unknown unknowns
+C. Management Reserves are for known unknowns
+
+D. None of the above
+
+
+D is the correct answer.
+
+The correct answer is D - none of the above.Contingency Reserves are part of cost baseline
+while Manageent reserves are not - so Option A is clearly incorrect. Contingency Reserves
+are meant to take care of risk mitigating cost for identified risks - they are the costs of known
+unknowns while Management reserve is for unknown unknowns - things like unforeseen
+work which is part of the scope. Options B and C state exactly the opposite - so they are not
+the correct answers - which leaves us with D - None of the above.
+
+
+
+
+Question - 174
+
+You are managing a project that is scheduled to un for an entire year.Things were looking
+good after the first two months.However due to some mistakes made by the construction
+crew at the end of the third month - you realize that the expected work to be completed at this
+stage is not complete.As a result the project is behind schedule and is also over
+budget.However there are stiff penalties in the contract should the project not complete
+within the stipulated timelines.Your senior management as a result has committed to
+additional staff to the project if required.What would be the Estimate at Completion for this
+project ?
+
+A. EAC = BAC / CPI
+
+B. EAC = AC + BAC - EV
+
+C. EAC = AC + (BAC - EV/(CPI * SPI )
+
+D. EAC = AC + Bottom up Estimate
+
+
+C is the correct answer.
+
+The correct answer is C - Option A is to be used if past CPI is expected to continue.Option B
+is to be used if future work is going to be performed at the planned rate.Option C is to be
+used if deadlines must be met and both CPI and SPI influence remaining work - here the
+project must be completed within stipulated timelines Option D is to be used when the initial
+plan is no longer valid - which is not the case here.
+
+
+
+
+Question - 175
+One of your project managers reports that her project has hit a roadblock.You are surprised
+since just the week before on reviewing the project everything seemed to be on track.She
+explains that a team member has identified a problem which was never envisioned in the risk
+identification process.Based on the analysis the impact would be to the cost to rectify the
+issue.What would be the best course of action?
+
+A. Add this risk with its impact and probability to the Risk register.
+
+B. Use the Management reserve to correct the issue
+
+C. Use the Contingency reserve to correct the issue
+
+D. Schedule a meeting with stakeholders and explain the problem
+
+
+B is the correct answer.
+
+The best course of immediate action on identifying a risk is to add it into the risk register
+along with its probability and impact.That is applicable for risks and not issues!In this case
+the risk has already occurred - it is no longer a risk - its a reality - an issue!While scheduling
+a meeting is an option its not the best choice.Being a project manager you are empowered
+and calling up meetings every time you run into issues would not be looked upon
+favorably.The correct answer is using the mangement reserve which is meant for unknown
+risks when they occur.Contingency reserves are meant to be used for known risks when they
+occur.
+
+
+
+
+Question - 176
+
+Of the following baselines which is not a part of the Project Management Plan ?
+
+A. Scope Baseline
+
+B. Quality Baseline
+
+C. Cost Baseline
+
+D. Schedule Baseline
+
+
+B is the correct answer.
+
+The project management plan contains the following baselines : Scope , Schedule and
+Cost.Infact there is no such thing as a Quality Baseline - so the correct answer is option B
+Question - 177
+
+A company wants to hire a PMP, and you are applying for the position in the company. You
+are scheduled to take the PMP exam in a few days. At your interview, a comment is made
+implying that you are PMP certified. What do you do?
+
+A. Clarify that you are scheduled to take your PMP certification exam soon, but are not yet
+PMP certified.
+
+B. Confirm that you are a PMP certified and you will be certified soon if you pass the exam.
+
+C. Both of the above are true.
+
+D. None of the above
+
+
+A is the correct answer.
+
+You have the responsibility to provide accurate, truthful representations concerning your
+qualifications, experience, and performance of services to a company.
+
+
+
+
+Question - 178
+
+A project is reporting a negative Cost Variance - what does this mean ?
+
+A. The project is under Budget
+
+B. The project is over Budget
+
+C. The project is running as per Budget
+
+D. None of the above
+
+
+B is the correct answer.
+
+The correct answer is - B : CV = (EV - AC) So if the Cost Variance is in the negative the
+Actual Cost is greater than the earned value which means the project is running over budget.
+
+
+
+
+Question - 179
+
+Which of the following is not a Risk Identification tool or technique ?
+A. Risk Register
+
+B. Documentation Reviews
+
+C. Brainstorming
+
+D. Interviewing
+
+
+A is the correct answer.
+
+Documentation reviews helps identify risks based on the plans and assumptions - so this is a
+Risk Identification tool.Brainstorming deals with getting together various stakeholders and
+identifying potential risks.Interviewing experienced project participants, stakeholders and
+subject matter experts is also a great source of identifying risks.Risk Register is not a tool -
+rather it is the document in which identified risks are documented -so the Risk Register is not
+a Risk Identification tool.
+
+
+
+
+Question - 180
+
+As a project manager of a large product - you and your team have shipped the deliverables to
+your customer.However the customer has reported a number of serious issues in the quality
+of deliverables - as a result of which the cost of quality of your project is deemed high. In the
+above scenario which type of cost would have caused the cost of quality to increase ?
+
+A. Less Rework.
+
+B. Higher productivity.
+
+C. Lower costs.
+
+D. Increased stakeholder satisfaction.
+
+
+D is the correct answer.
+
+Options A , B and C are benefits of meeting Quality Requirements.The question states what
+has contributed to increased cost of Quality.As the stakeholder is not satisfied with the
+deliverables - there is rework involved , there is an impact on productivity and increases
+cost.It also decreases stakeholder satisfaction - so amongst the choices option D is the correct
+option.
+
+
+
+
+Question - 181
+Project Quality Management includes:
+
+A. Customer satisfaction
+
+B. Prevention over inspection
+
+C. Continuous improvement
+
+D. All of the above
+
+
+D is the correct answer.
+
+Project Quality Management includes: Customer satisfaction, Prevention over inspection,
+Continuous improvement and Management responsibility.
+
+
+
+
+Question - 182
+
+A relatively new project manager joins your company.You have assigned her to handle a
+project that deals with laying out of electrical cables.One day she informs you that some
+government body has been sending her a lot of queries related to the project and its layout.It
+seems that the government body was not considered as a stakeholder by her.You decide to
+review the list of identified Stakeholders - so you ask her to provide you with the
+comprehensive list - where should this information be found ?
+
+A. Project Management Plan
+
+B. Stakeholder Management Plan
+
+C. Stakeholder Engagement Matrix
+
+D. Stakeholder Register
+
+
+D is the correct answer.
+
+Stakeholder information contains information such as details of stakeholders - name ,
+location etc , their expectations , interest , influence. Whether they are internal or external ,
+are they supportive or in resistance or neutral.So the best source of information regarding
+stakeholders is the Stakeholder Register which is option D
+
+
+
+
+Question - 183
+
+A project is in execution.A team member approaches the project manager and indicates that
+she is not sure of what work she needs to perform.Which document would be the best source
+of this information ?
+
+A. Project Scope Management Plan
+
+B. Project Scope Statement
+
+C. Project Management Plan
+
+D. Work Breakdown Structure Dictionary
+
+
+D is the correct answer.
+
+The correct answer is Option D - WBS Dictionary which provides details of the work to be
+done in detail.
+
+
+
+
+Question - 184
+
+Which of the following statement is true regarding Procurement Documents
+
+A. These are the response documents provided by Seller to the Buyer.
+
+B. It is the formal agreed contract between the buyer and seller
+
+C. It is used to solicit proposals from sellers and contains details of expected services or work
+to be done
+
+D. Describes how product or services will be acquired externally and type of contract to be
+administered
+
+
+C is the correct answer.
+
+Procurement documents are used to solicit responses from sellers.As such it contains
+sufficient information regarding the work in the form of Procurement statement of
+work.Option A is incorrect since this document serves as an input for sellers to provide
+response and it is not the response of the seller.This is not the contract as we are still looking
+for prospective sellers.Option D is wrong since it is the Procurement Management plan which
+determines how product or services will be acquired externally and type of contract to be
+administered.The correct answer is option C
+
+
+
+
+Question - 185
+You have a large complex project to deliver and you are evaluating different motivational
+strategies to motivate your team to get the job done. You subscribe to the belief that to get
+things done and to motivate staff - they must be rewarded with monetary rewards.You
+believe that by rewarding employees they would get motivated - which of the following
+motivational theories are you applying ?
+
+A. Herzberg Hygiene Theory
+
+B. Maslows theory of Hierarchy of needs
+
+C. Expectancy theory
+
+D. Theory of coercion
+
+
+C is the correct answer.
+
+Herzberg's Hygiene theory states that it is the Job content that motivates staff - so in this case
+Option A is not the correct answer. Maslows theory of Hierarchy of needs indicates the levels
+of needs starting with Physiological needs and ending with Self Actualization - so Option B
+is not correct as well. Vrooms Expectancy theory states that employees can be motivated by
+altering the person's effort-to-performance expectancy, performance-to-reward expectancy,
+and reward valences - so Option C is correct. Option D is clearly incorrect as the question
+does not indicate any imposed mandates or threats which would fall under Theory X style of
+management.
+
+
+
+
+Question - 186
+
+Which of the following statement is NOT true regarding starting a project without a charter ?
+
+A. There is a risk of constant change without a formal approved charter
+
+B. There is no risk of greater number of changes and disruption without a project charter.
+
+C. Managing expectations of different stakeholders can be an increased challenge without a
+formal approved charter
+
+D. The project manager will be undermined since the project manager would lack formal
+authority.
+
+
+B is the correct answer.
+
+All the options A , C and D correctly state the disadvantages of starting a project without a
+formal approved charter.These are the very reasons why a project should not be started
+without an approved charter where risks of constant change , managing stakeholder
+expectation , lack of visibility of project's vision , mission , business case and also lack of
+authority to the project manager to execute the project.So the correct answer to the question is
+option B since it incorrectly states that there is no risk of increased changes without an
+approved proejct charter.
+
+
+
+
+Question - 187
+
+A project is ahead of schedule when
+
+A. CPI > 1
+
+B. SPI > 1
+
+C. CPI and SPI > 1
+
+D. SPI less than 1
+
+
+B is the correct answer.
+
+The correct answer is B - SPI = EV / PV - so if the EV is greater than PV then SPI > 1 which
+means the project is ahead of schedule.
+
+
+
+
+Question - 188
+
+You are in charge of a software project and you are almost 40% complete.The project
+stakeholders want a [performance report to date.You had planned to use Earned Value
+Management methodology.You come up with the following numbers: EV = 300 AC = 100
+PV = 150 BAC = 600 ETC 300 You and your team are very confident of continuing at the
+same rate as till now . The project has not faced any major issues and you and your team's
+confidence level is high that the project would complete without any hiccups. Based on this
+information what would be the EAC for the project ?
+
+A. 400
+
+B. 200
+
+C. 400
+
+D. 106
+
+
+B is the correct answer.
+The correct answer is B - this is because here it is stated that whatever issues or lack of them
+experienced in the project are expected to continue - so here the past performance is expected
+to continue.So the formula : EAC = BAC / CPI. CPI = EV / AC = 300 / 100 = 3 EAC = 600 /
+3 = 200
+
+
+
+
+Question - 189
+
+As a project manager you understand the importance of identifying all relevant stakeholders ,
+their interest and influence and their needs and expectations.You have been assigned to
+handle a large construction project.You decide to do a thorough stakeholder analysis and you
+identify Bob and Kelly.Based on your interactions and analysis - you know that Bob wields a
+lot of authority and also has a huge interest in the project.Kelly too wields a lot of power but
+is largely uninterested . You decide to plot them in a Power / Interest grid to help determine
+how you would manage these stakeholders. Which of the following is the best approach to
+handle these two stakeholders ?
+
+A. Both Bob and Kelly should be Managed closely.
+
+B. Both Bob and Kelly should be Kept satisfied.
+
+C. Kelly should be monitored while Bob should be Kept satisfied.
+
+D. Kelly should be kept satisfied while Bob should be Managed closely.
+
+
+D is the correct answer.
+
+Both Bob and Kelly have power and authority .However the differentiator seems to be their
+level of interest.While Kelly is disinterested Bob has a high level of interest in the
+project.Stakeholders who have a high level of interest and who wield a lot of authority or
+power should be Managed closely - in this case Bob. Stakeholders who have a low level of
+interest but who wield a lot of authority or power should be Kept satisfied - in this case
+Kelly.The correct answer being - Option D
+
+
+
+
+Question - 190
+
+Regarding Rolling Wave Planning which of the following statements are true - choose all that
+apply ?
+
+A. Rolling Wave Planning is a form of progressive elaboration.
+
+B. It is a planning technique performed only once.
+
+C. Work that is to be performed in the long term is planned in greater detail as compared to
+work in near teram
+
+D. It is a form of planning where all the details are estimated upfront.
+
+
+A is the correct answer.
+
+Option A is the correct answer which correctly explain Rolling Wave Planning .Option B , C
+and D are clearly not correct since not all details are estimated upfront - rather only the
+immediate activities or tasks are estimated upfront.This process is performed iteratively and
+not only once.
+
+
+
+
+Question - 191
+
+You have worked in the current organization and from managing projects you have now
+graduated to portfolio management and have a number of project managers reporting into
+you.Your company has bagged a prestigious project of a very similar nature to the one you
+had executed some years back.You ask the current project manager to look up the lessons
+learned for the past project - where would these be stored ?
+
+A. Projects performance reports
+
+B. Projects status reports
+
+C. Projects record management system
+
+D. Organizational process assets
+
+
+D is the correct answer.
+
+While all the options seem to be good choices - the best choice in this case would be
+Organizational Process Assets.Lessons learned are always a part of the Organizations process
+assets.It is such assets that enable an organization take informed decisions.
+
+
+
+
+Question - 192
+
+Your company has just bagged a project for electric cable layout and routing for a large
+shopping complex - and you have been tasked with providing the cost estimates.You choose
+to rely on your past experience of similar such projects.You breakdown the costs of the
+cables per foot and unit cost of cable trays.What type of cost estimating technique are you
+relying on?
+
+A. Analogous cost estimate
+B. Top down cost estimate
+
+C. Bottom up cost estimate
+
+D. Parametric estimates
+
+
+D is the correct answer.
+
+Parametric estimates is the correct choice - this is so because we have derived the cost per
+unit - cost of cables per feet etc.Based on the unit cost parametric estimates are used to
+determine an estimate of the total cost.
+
+
+
+
+Question - 193
+
+When does Scope Verification Occur ?
+
+A. At the end of the project
+
+B. At the beginning of the project
+
+C. At the end of each phase of the project
+
+D. During Quality Control
+
+
+C is the correct answer.
+
+Scope Verification occurs at the end of each phase of the project.Option A relates to Product
+verification not Scope verification.
+
+
+
+
+Question - 194
+
+Which of the following statements below is NOT true regarding differences between
+administrative closure and contract closure ?
+
+A. Contract closure is performed before administrative closure
+
+B. Administrative closure is not complete without Contract closure
+
+C. Administrative closure is done only once per phase or once for the project - while
+Procurement closure can be done as many times as needed depending on the number of
+contracts
+D. Lessons learned is performed only during administrative closure
+
+
+D is the correct answer.
+
+All the options except Option D correctly state the differences between administrative and
+contract closure.Infact option D is not true since in both forms of closure lessons learned are
+documented and updated to the OPA.
+
+
+
+
+Question - 195
+
+You are responsible for managing a project that deals with laying out a freeway connecting
+two major port cities.Progress in the past has been smooth but lately in the past few months
+you have observed a schedule and budget overrun.You decide to hold a meeting with your
+team members.On discussions you realize team members went ahead and made changes at
+the behest of the client requests on site.You are pretty sure the changes were not a part of the
+project scope statement - this is an example of:
+
+A. Scope Creep
+
+B. Gold Plating
+
+C. Integrated Change Control
+
+D. Fast Tracking
+
+
+A is the correct answer.
+
+This is an example of Scope Creep.Integrated change control deals with formally approving
+or rejecting changes before they are implemented so it is not the correct answer.Fast tracking
+is a schedule compression technique - so it too is not the correct answer.While Gold Plating is
+related to change in scope it is generally done intentionally or knowingly for some trategic
+purpose.Scope creep relates to uncontrolled changes in product or projects scope and is often
+due to client interference.
+
+
+
+
+Question - 196
+
+You are part of a Quality Assurance team and have scheduled a Quality Audit for one of the
+projects - what would not be a goal or objective of performing this audit ?
+
+A. To determine if the project activities comply to the organizations policies , processes and
+procedures
+B. Identify all the good and best practices being implemented
+
+C. Identify all gaps , non conformity and shortcomings
+
+D. Identify the root cause of the Quality issues
+
+
+D is the correct answer.
+
+Option A , B and C are the objectives or goals of this exercise.The purpose of the audit is to
+identify what is working well , what is missing but never to find root cause of issues - which
+is done in Process analysis.Since the question is asking what is not a goal or objective of
+performing a Quality Audit - option D is the correct answer.
+
+
+
+
+Question - 197
+
+As per Maslows theory of Hierarchy of needs - which is the correct order of needs?
+
+A. Psychological,Physiological , Safety , Love / belonging , Esteem
+
+B. Safety , Love / belonging , Esteem,Self-actualization,Physiological
+
+C. Self-actualization , Love / belonging , Esteem,Safety,Physiological
+
+D. None of the above
+
+
+D is the correct answer.
+
+Option D is the correct answer As per Maslows theory of Hierarchial needs - the first need of
+humans is a basic need for survival ( air , water food etc ) - this need is termed as
+Physiological. Once this need is met - the next need is the need of Safety and Security - this
+can be in the form of a Secure Job , Health , Insurance etc. The next need is termed as need of
+Love or Belonging. As per Maslows theory - humans need to belong and find acceptance
+among their social groups.The fourth need is termed as the need of Esteem - to be respected
+and valued by others.Once the above four needs are met - then the final need - Self
+Actualization - which is the desire to accomplish. So the correct order of needs as per this
+theory is : Physiological,Safety,Love/Belonging,Esteem,Self-actualization.
+
+
+
+
+Question - 198
+
+You have just completed developing the Schedule Network Diagram for a project that deals
+with building super sonic state of the art Jet planes.You have identified your critical path
+which includes building a wind tunnel.You see that in addition there is another path which
+deals with building the tail of the plane - whose duration is close to the critical path.You also
+notice considerable floats on the other paths.You now need to assign resources to the tasks -
+you have a few team members who are highly skilled and a team of resources who are
+relatively inexperienced.What would be the best course of action while assigning resources ?
+
+A. It is irrelevant which resources are assigned to tasks - resource skills and critical paths
+have nothing in common
+
+B. Assign all the skilled resources to building the wind tunnel which is the critical path -
+assign the non skilled task to building the tail.
+
+C. Assign the inexperienced staff to the task of building the wind tunnel - and assign the
+skilled task to all other tasks.
+
+D. Assign one half of the skilled resources to the task of building the wind tunnel and the
+other half to building the tail and assign the less experienced staff to all the other tasks.
+
+
+D is the correct answer.
+
+Option D is the best option.Option A and C are just plain wrong - you should always ensure
+actvities on the critical path do not get delayed - so having the best equipped staff on critical
+path activities is important.While Option B is an option - it cannot be the BEST choice since
+if we assign all the experienced staff on building the wind tunnel - the critical path activities
+are taken care of - but the question also states of a path which is near Critical - building of the
+tail.Not paying attention to this path by assignining inexperienced staff is not a good
+option.Amongst the choices option D is the best fit - where you are paying attention to both
+the critical path and near critical path by assigning your best and most skilled or experienced
+resources to the activities on the Critical path and Near Critical Path.
+
+
+
+
+Question - 199
+
+John who is a software programmer is developing a framework for calculating equity
+prices.He comes up with an idea that would give very accurate calculations and discusses it
+with his manager.His manager likes the idea but realizes that this would cause an impact to
+the original effort estimate and thereby impact the business objectives as stated in the project
+charter.He goes ahead and updates the Project charter.Should he have updated the charter ?
+Choose the MOST appropriate answer
+
+A. Yes - he is right in updating the charter
+
+B. No - a project manager cannot update the project charter
+
+C. Yes - as long as the charter is circulated with all stakeholders
+
+D. No - any change to charter should only come from project sponsor not the project manager
+D is the correct answer.The correct answer is option D.Option B is correct but D states the
+details correctly as to who is responsible for managing changes to the charter
+
+
+Question - 200
+
+What is the purpose of the Project Charter ?
+
+A. Authorizes Project Manager
+
+B. Defines Project Scope
+
+C. Defines schedule of deliverables
+
+D. Defines Quality Metrics
+
+
+A is the correct answer.A project charter formally authorizes the project and gives the project
+manager the authority to assign organization resources to the project.It provides a formal
+authorization of project and identification of a project manager and authority to assign
+organizational resources.So the correct answer is option A

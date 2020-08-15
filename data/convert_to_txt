@@ -1,6 +1,8 @@
-#!/bin/bash
-for i in $(seq 1 1 6 $END); do 
-	echo "$i.pdf -> $i.txt"
-	# this requires "poppler", on mac do `brew install poppler`
-	pdftotext -nopgbrk -layout -enc ASCII7 -q $i.pdf $i.txt
-done
+#!/usr/bin/env python3
+import os
+
+for x in os.listdir('pdf'):
+	if x.endswith('pdf'):
+		cmd = f'pdftotext -nopgbrk -layout -enc ASCII7 -q pdf/{x} txt/{x[:-4]}.txt'
+		print(cmd)
+		os.system(cmd)

@@ -24,7 +24,7 @@ document.
 with open('pmp_questions.txt', 'w+') as out_file:
     seen = set()
     for doc in pdf_regexs.regexs:
-        in_file_name = f'data/{doc["target"]}.txt'
+        in_file_name = f'data/txt/{str(doc["target"])}.txt'
         print('working on', in_file_name)
         with open(in_file_name, 'r') as in_file:
             content = in_file.read()
