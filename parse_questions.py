@@ -1,4 +1,5 @@
 import re
+import pdf_regexs
 
 '''
 This little script will parse out all "Practice Questions" from the input text 
@@ -20,55 +21,9 @@ document.
                             sanatize results and write to output document.
 '''
 
-doc_regexs = [
-    {
-        'target': 1,
-        'regexs': [
-            # "PMP Lite Mock Exam" and "Knowledge Area Quiz"
-            # (1044 questions) TODO: didn't confirm
-            [r'Test Questions\n([\S\s]*?)Answer Key and Explanations', r'\d\. ([\S\s]*?)A\.']
-        ]
-    },
-    {
-        'target': 2,
-        'regexs': [
-            # "Practice Questions" (400 questions)
-            [r'Practice Questions\n([\S\s]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.'],
-            # "Practice Test" at the end (200 questions)
-            [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
-        ]
-    },
-    # {
-    #     'target': 4,
-    #     'regexs': [
-    #         # "Practice Questions" (400 questions)
-    #         [r'Practice Questions\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.'],
-    #         # "Practice Test" at the end (200 questions)
-    #         [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
-    #     ]
-    # },
-    {
-        'target': 5,
-        'regexs': [
-            # "Practice Questions" (400 questions)
-            [r'Practice Questions\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.'],
-            # "Practice Test" at the end (200 questions)
-            [r'\nPractice Test\n\n([\s\S]*?)Answer Sheet', r'\d\. ([\S\s]*?)a\.']
-        ]
-    },
-    {
-        'target': 6,
-        'regexs': [
-            # "Review Questions" at the end of each chapter
-            # (~187 questions) TODO: didn't confirm
-            [r'Review Questions\n([\s\S]*?)(?:CHAPTER|APPENDIX)', r'\d\. ([\S\s]*?)A\.']
-        ]
-    }
-]
-
 with open('pmp_questions.txt', 'w+') as out_file:
     seen = set()
-    for doc in doc_regexs:
+    for doc in pdf_regexs.regexs:
         in_file_name = f'data/{doc["target"]}.txt'
         print('working on', in_file_name)
         with open(in_file_name, 'r') as in_file:
