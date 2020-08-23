@@ -6,13 +6,15 @@ This queries a pre-trained model from the file system. If missing an input
 param, it will look at `sample_paragraph.txt` as the input question instead.
 '''
 
-model = gensim.models.Doc2Vec.load('saved_model')
-
-if len(sys.argv) > 1:
-    question = sys.argv[1]
+if len(sys.argv) < 2:
+    raise Exception('Please specify a model as argument')
+elif len(sys.argv) > 2:
+    question = sys.argv[2]
 else:
     with open('sample_paragraph.txt', 'r') as f:
         question = f.read()
+
+model = gensim.models.Doc2Vec.load(sys.argv[1])
 
 print('Sample Text: «{}»\n'.format(question))
 

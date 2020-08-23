@@ -6,6 +6,9 @@ import smart_open
 # Reference from https://radimrehurek.com/gensim/auto_examples/tutorials/run_doc2vec_lee.html#sphx-glr-auto-examples-tutorials-run-doc2vec-lee-py 
 
 train_file = 'pmp_questions.txt'
+VECTOR_SIZE = 30
+MIN_COUNT = 2
+EPOCHS = 80
 
 # Preprocess train data
 
@@ -23,7 +26,7 @@ train_corpus = list(read_corpus(train_file))
 
 # Initialize a model
 # model = gensim.models.doc2vec.Doc2Vec(vector_size=50, min_count=2, epochs=40)
-model = gensim.models.doc2vec.Doc2Vec(vector_size=30, min_count=2, epochs=80)
+model = gensim.models.doc2vec.Doc2Vec(vector_size=VECTOR_SIZE, min_count=MIN_COUNT, epochs=EPOCHS)
 
 # Build a vocabulary
 model.build_vocab(train_corpus)
@@ -47,4 +50,4 @@ print(counter)
 print(f'Model Consistency: {counter[0]/sum(counter.values())}')
 
 # save the trained model
-model.save('saved_model')
+model.save(f'saved_model_{VECTOR_SIZE}_{MIN_COUNT}_{EPOCHS}')
