@@ -27,4 +27,4 @@ with open('pmp_questions.txt', 'r') as f:
     lines = f.readlines()
 
     for label, index in [('MOST', 0), ('SECOND', 1), ('THIRD', 2), ('MEDIAN', len(sims)//2), ('LEAST', len(sims) - 1)]:
-        print(u'%s %s: «%s»\n' % (label, sims[index], lines[sims[index][0]].strip()))
+        print(u'%s %s %s: «%s»\n' % (sys.argv[1], label, sims[index], lines[sims[index][0]].strip()))
