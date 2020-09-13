@@ -1,0 +1,8 @@
+import re
+i = 'foo \n bar'
+
+txt = re.sub(r'\n', ' ', i)
+txt = re.sub(r'\s+', ' ', txt)
+
+print(txt)
+
